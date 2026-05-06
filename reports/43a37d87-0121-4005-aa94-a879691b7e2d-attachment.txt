@@ -1,0 +1,1880 @@
+2026-05-05 23:16:59,769 - INFO - ====== WebDriver manager ======
+2026-05-05 23:17:02,845 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:17:06,916 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:17:07,646 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:17:17,371 - INFO - Login successful
+2026-05-05 23:17:23,603 - INFO - ====== WebDriver manager ======
+2026-05-05 23:17:25,847 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:17:26,680 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:17:27,410 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:17:36,851 - INFO - Login successful
+2026-05-05 23:17:47,013 - INFO - ====== WebDriver manager ======
+2026-05-05 23:17:50,005 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:17:51,250 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:17:53,758 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:18:05,124 - INFO - Login successful
+2026-05-05 23:18:19,648 - INFO - ====== WebDriver manager ======
+2026-05-05 23:18:21,986 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:18:22,690 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:18:23,507 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:18:34,994 - INFO - Login successful
+2026-05-05 23:18:47,951 - INFO - ====== WebDriver manager ======
+2026-05-05 23:18:50,359 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:18:52,697 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:18:53,433 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:19:04,880 - INFO - ====== WebDriver manager ======
+2026-05-05 23:19:07,188 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:19:08,071 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:19:08,773 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:19:18,849 - INFO - ====== WebDriver manager ======
+2026-05-05 23:19:21,383 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:19:22,093 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:19:22,801 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:19:30,922 - INFO - Login successful
+2026-05-05 23:19:54,299 - INFO - ====== WebDriver manager ======
+2026-05-05 23:19:56,790 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:19:57,531 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:19:58,230 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:20:07,676 - INFO - Login successful
+2026-05-05 23:20:16,478 - INFO - ====== WebDriver manager ======
+2026-05-05 23:20:18,975 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:20:19,737 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-05 23:20:20,454 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-05 23:20:29,026 - INFO - Login successful
+2026-05-06 09:37:38,487 - INFO - ====== WebDriver manager ======
+2026-05-06 09:37:41,303 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:37:42,014 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:37:42,657 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:37:44,039 - INFO - WebDriver version 147.0.7727.117 selected
+2026-05-06 09:37:44,046 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-06 09:37:44,047 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-06 09:37:44,788 - INFO - Driver downloading response is 200
+2026-05-06 09:38:15,951 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:38:16,712 - INFO - Driver has been saved in cache [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117]
+2026-05-06 09:38:33,728 - INFO - Login successful
+2026-05-06 09:38:39,785 - INFO - ====== WebDriver manager ======
+2026-05-06 09:38:42,043 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:38:42,591 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:38:43,338 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:38:52,113 - INFO - Login successful
+2026-05-06 09:39:00,969 - INFO - ====== WebDriver manager ======
+2026-05-06 09:39:03,275 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:39:04,705 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:39:05,683 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:39:15,939 - INFO - Login successful
+2026-05-06 09:39:29,359 - INFO - ====== WebDriver manager ======
+2026-05-06 09:39:31,800 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:39:32,394 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:39:33,018 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:39:43,467 - INFO - Login successful
+2026-05-06 09:39:54,994 - INFO - ====== WebDriver manager ======
+2026-05-06 09:39:57,548 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:39:58,282 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:39:58,847 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:40:12,978 - INFO - ====== WebDriver manager ======
+2026-05-06 09:40:15,361 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:40:16,568 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:40:17,609 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:40:31,582 - INFO - ====== WebDriver manager ======
+2026-05-06 09:40:33,741 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:40:34,507 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:40:35,326 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:40:50,744 - INFO - Login successful
+2026-05-06 09:41:14,334 - INFO - ====== WebDriver manager ======
+2026-05-06 09:41:16,736 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:41:17,226 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:41:18,176 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:41:33,089 - INFO - Login successful
+2026-05-06 09:41:43,723 - INFO - ====== WebDriver manager ======
+2026-05-06 09:41:46,031 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:41:47,107 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:41:48,502 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:42:06,379 - INFO - Login successful
+2026-05-06 09:50:19,611 - INFO - ====== WebDriver manager ======
+2026-05-06 09:50:22,379 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:50:23,009 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:50:23,470 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:50:35,141 - INFO - Login successful
+2026-05-06 09:50:43,628 - INFO - ====== WebDriver manager ======
+2026-05-06 09:50:46,016 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:50:46,498 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:50:46,977 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:50:54,889 - INFO - Login successful
+2026-05-06 09:51:07,193 - INFO - ====== WebDriver manager ======
+2026-05-06 09:51:09,432 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:51:09,918 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:51:10,446 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:51:19,546 - INFO - Login successful
+2026-05-06 09:51:31,352 - INFO - ====== WebDriver manager ======
+2026-05-06 09:51:33,616 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:51:34,574 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:51:35,810 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:51:45,988 - INFO - ====== WebDriver manager ======
+2026-05-06 09:51:48,305 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:51:48,785 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:51:49,410 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:51:56,663 - INFO - Login successful
+2026-05-06 09:52:20,144 - INFO - ====== WebDriver manager ======
+2026-05-06 09:52:22,507 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:52:23,401 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:52:23,859 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:52:33,575 - INFO - Login successful
+2026-05-06 09:52:45,339 - INFO - ====== WebDriver manager ======
+2026-05-06 09:52:47,643 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:52:48,151 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:52:48,614 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:52:56,943 - INFO - Login successful
+2026-05-06 09:53:05,476 - INFO - ====== WebDriver manager ======
+2026-05-06 09:53:07,711 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:53:08,205 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:53:08,648 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:53:16,467 - INFO - Login successful
+2026-05-06 09:53:22,413 - INFO - ====== WebDriver manager ======
+2026-05-06 09:53:24,638 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:53:25,084 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:53:25,566 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 09:59:53,896 - INFO - ====== WebDriver manager ======
+2026-05-06 09:59:56,581 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:59:57,060 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 09:59:57,555 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:00:35,000 - INFO - ====== WebDriver manager ======
+2026-05-06 10:00:37,248 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:00:37,820 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:00:38,308 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:01:08,518 - INFO - ====== WebDriver manager ======
+2026-05-06 10:01:10,762 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:01:11,200 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:01:11,784 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:01:20,593 - INFO - Login successful
+2026-05-06 10:01:29,190 - INFO - ====== WebDriver manager ======
+2026-05-06 10:01:31,513 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:01:32,103 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:01:32,533 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:01:40,011 - INFO - Login successful
+2026-05-06 10:01:54,109 - INFO - ====== WebDriver manager ======
+2026-05-06 10:01:56,414 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:01:56,878 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:01:57,356 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:02:06,947 - INFO - Login successful
+2026-05-06 10:02:20,882 - INFO - ====== WebDriver manager ======
+2026-05-06 10:02:23,134 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:02:23,613 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:02:24,191 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:02:33,761 - INFO - ====== WebDriver manager ======
+2026-05-06 10:02:36,056 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:02:36,681 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:02:37,322 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:02:45,423 - INFO - Login successful
+2026-05-06 10:03:08,782 - INFO - ====== WebDriver manager ======
+2026-05-06 10:03:11,027 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:03:11,698 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:03:12,206 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:03:21,419 - INFO - Login successful
+2026-05-06 10:03:31,460 - INFO - ====== WebDriver manager ======
+2026-05-06 10:03:33,738 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:03:34,175 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:03:34,687 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:03:43,531 - INFO - Login successful
+2026-05-06 10:03:52,440 - INFO - ====== WebDriver manager ======
+2026-05-06 10:03:54,700 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:03:55,228 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:03:55,684 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:04:05,456 - INFO - Login successful
+2026-05-06 10:04:11,173 - INFO - ====== WebDriver manager ======
+2026-05-06 10:04:13,455 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:04:13,929 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:04:14,389 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:12:34,959 - INFO - ====== WebDriver manager ======
+2026-05-06 10:12:37,310 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:12:37,792 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:12:38,269 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:12:47,613 - INFO - Login successful
+2026-05-06 10:15:00,723 - INFO - ====== WebDriver manager ======
+2026-05-06 10:15:03,312 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:15:04,005 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:15:04,464 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:15:12,881 - INFO - Login successful
+2026-05-06 10:34:39,678 - INFO - ====== WebDriver manager ======
+2026-05-06 10:34:42,524 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:34:42,976 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:34:43,493 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:34:51,594 - INFO - Login successful
+2026-05-06 10:34:53,931 - INFO - ====== WebDriver manager ======
+2026-05-06 10:34:56,245 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:34:56,698 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:34:57,490 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:35:06,583 - INFO - Login successful
+2026-05-06 10:35:08,925 - INFO - ====== WebDriver manager ======
+2026-05-06 10:35:11,258 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:35:11,699 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:35:12,140 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:35:21,327 - INFO - Login successful
+2026-05-06 10:35:23,628 - INFO - ====== WebDriver manager ======
+2026-05-06 10:35:25,875 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:35:26,314 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:35:26,754 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:35:36,432 - INFO - ====== WebDriver manager ======
+2026-05-06 10:35:38,744 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:35:39,345 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:35:39,819 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:35:48,428 - INFO - Login successful
+2026-05-06 10:36:11,526 - INFO - ====== WebDriver manager ======
+2026-05-06 10:36:13,878 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:36:14,337 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:36:14,790 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:36:22,310 - INFO - Login successful
+2026-05-06 10:36:46,430 - INFO - ====== WebDriver manager ======
+2026-05-06 10:36:48,774 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:36:49,246 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:36:49,706 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:36:58,204 - INFO - Login successful
+2026-05-06 10:37:04,660 - INFO - ====== WebDriver manager ======
+2026-05-06 10:37:06,987 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:07,519 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:08,022 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:37:17,020 - INFO - Login successful
+2026-05-06 10:37:20,171 - INFO - ====== WebDriver manager ======
+2026-05-06 10:37:22,576 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:23,069 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:23,514 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:37:30,600 - INFO - Login successful
+2026-05-06 10:37:36,362 - INFO - ====== WebDriver manager ======
+2026-05-06 10:37:38,593 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:39,055 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:39,523 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:37:47,777 - INFO - Login successful
+2026-05-06 10:37:51,173 - INFO - ====== WebDriver manager ======
+2026-05-06 10:37:53,502 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:53,945 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:37:54,582 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:38:03,140 - INFO - ====== WebDriver manager ======
+2026-05-06 10:38:05,464 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:38:05,929 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:38:06,408 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:38:14,761 - INFO - Login successful
+2026-05-06 10:38:17,288 - INFO - ====== WebDriver manager ======
+2026-05-06 10:38:19,636 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:38:20,115 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:38:20,589 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:38:29,287 - INFO - Login successful
+2026-05-06 10:45:15,878 - INFO - ====== WebDriver manager ======
+2026-05-06 10:45:18,584 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:45:19,242 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:45:19,747 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:45:28,187 - INFO - Login successful
+2026-05-06 10:45:31,992 - INFO - ====== WebDriver manager ======
+2026-05-06 10:45:34,225 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:45:34,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:45:35,213 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:45:46,508 - INFO - Login successful
+2026-05-06 10:45:51,066 - INFO - ====== WebDriver manager ======
+2026-05-06 10:45:53,737 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:45:54,195 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:45:54,634 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:46:03,156 - INFO - Login successful
+2026-05-06 10:46:06,799 - INFO - ====== WebDriver manager ======
+2026-05-06 10:46:08,964 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:46:09,838 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:46:10,910 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:46:21,388 - INFO - ====== WebDriver manager ======
+2026-05-06 10:46:23,541 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:46:24,016 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:46:24,512 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:46:32,205 - INFO - Login successful
+2026-05-06 10:46:57,891 - INFO - ====== WebDriver manager ======
+2026-05-06 10:47:00,082 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:47:00,567 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:47:01,011 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:47:10,989 - INFO - Login successful
+2026-05-06 10:47:24,477 - INFO - ====== WebDriver manager ======
+2026-05-06 10:47:26,662 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:47:27,162 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:47:27,654 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:47:36,832 - INFO - Login successful
+2026-05-06 10:47:47,232 - INFO - ====== WebDriver manager ======
+2026-05-06 10:47:49,392 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:47:49,876 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:47:50,375 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:47:58,963 - INFO - Login successful
+2026-05-06 10:48:07,020 - INFO - ====== WebDriver manager ======
+2026-05-06 10:48:09,223 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:48:09,798 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:48:10,484 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:48:18,015 - INFO - Login successful
+2026-05-06 10:48:27,855 - INFO - ====== WebDriver manager ======
+2026-05-06 10:48:30,107 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:48:30,589 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:48:31,030 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:48:38,704 - INFO - Login successful
+2026-05-06 10:48:45,687 - INFO - ====== WebDriver manager ======
+2026-05-06 10:48:47,917 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:48:48,443 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:48:48,927 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:48:58,564 - INFO - ====== WebDriver manager ======
+2026-05-06 10:49:00,851 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:49:01,330 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:49:01,798 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:49:10,097 - INFO - Login successful
+2026-05-06 10:49:22,948 - INFO - ====== WebDriver manager ======
+2026-05-06 10:49:25,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:49:25,651 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:49:26,101 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:49:34,470 - INFO - Login successful
+2026-05-06 10:59:32,522 - INFO - ====== WebDriver manager ======
+2026-05-06 10:59:35,274 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:59:35,707 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:59:36,186 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 10:59:43,752 - INFO - Login successful
+2026-05-06 10:59:51,313 - INFO - ====== WebDriver manager ======
+2026-05-06 10:59:53,743 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:59:54,226 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 10:59:54,767 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:00:02,774 - INFO - Login successful
+2026-05-06 11:00:59,650 - INFO - ====== WebDriver manager ======
+2026-05-06 11:01:01,924 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:01:02,633 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:01:03,580 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:01:12,767 - INFO - Login successful
+2026-05-06 11:02:08,676 - INFO - ====== WebDriver manager ======
+2026-05-06 11:02:11,011 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:02:11,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:02:12,090 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:02:31,620 - INFO - ====== WebDriver manager ======
+2026-05-06 11:02:33,848 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:02:34,395 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:02:34,938 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:02:42,636 - INFO - Login successful
+2026-05-06 11:03:11,321 - INFO - ====== WebDriver manager ======
+2026-05-06 11:03:13,623 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:03:14,122 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:03:14,697 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:03:22,098 - INFO - Login successful
+2026-05-06 11:03:30,873 - INFO - ====== WebDriver manager ======
+2026-05-06 11:03:33,214 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:03:33,675 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:03:34,178 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:03:43,965 - INFO - Login successful
+2026-05-06 11:03:52,937 - INFO - ====== WebDriver manager ======
+2026-05-06 11:03:56,026 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:03:56,568 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:03:57,263 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:04:07,705 - INFO - Login successful
+2026-05-06 11:04:13,466 - INFO - ====== WebDriver manager ======
+2026-05-06 11:04:15,779 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:04:16,289 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:04:16,774 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:04:24,706 - INFO - Login successful
+2026-05-06 11:04:32,220 - INFO - ====== WebDriver manager ======
+2026-05-06 11:04:34,547 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:04:35,037 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:04:35,527 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:04:43,247 - INFO - Login successful
+2026-05-06 11:04:48,340 - INFO - ====== WebDriver manager ======
+2026-05-06 11:04:50,640 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:04:51,205 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:04:51,694 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:05:02,077 - INFO - ====== WebDriver manager ======
+2026-05-06 11:05:04,477 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:05:05,028 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:05:05,477 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:05:14,396 - INFO - Login successful
+2026-05-06 11:05:27,430 - INFO - ====== WebDriver manager ======
+2026-05-06 11:05:29,757 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:05:30,243 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:05:30,702 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:05:38,733 - INFO - Login successful
+2026-05-06 11:08:31,102 - INFO - ====== WebDriver manager ======
+2026-05-06 11:08:33,737 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:08:34,951 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:08:35,538 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:10:35,009 - INFO - ====== WebDriver manager ======
+2026-05-06 11:10:37,630 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:10:38,078 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:10:38,672 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:12:10,871 - INFO - ====== WebDriver manager ======
+2026-05-06 11:12:13,309 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:12:13,757 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:12:14,213 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:12:20,965 - INFO - Login successful
+2026-05-06 11:13:09,097 - INFO - ====== WebDriver manager ======
+2026-05-06 11:13:11,411 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:13:11,919 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:13:12,415 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:13:24,895 - INFO - Login successful
+2026-05-06 11:14:09,408 - INFO - ====== WebDriver manager ======
+2026-05-06 11:14:11,730 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:14:12,187 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:14:12,807 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:14:23,911 - INFO - Login successful
+2026-05-06 11:14:40,953 - INFO - ====== WebDriver manager ======
+2026-05-06 11:14:43,324 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:14:43,820 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:14:44,347 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:14:54,827 - INFO - Login successful
+2026-05-06 11:15:02,918 - INFO - ====== WebDriver manager ======
+2026-05-06 11:15:05,246 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:15:05,729 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:15:06,263 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:15:13,700 - INFO - Login successful
+2026-05-06 11:16:09,934 - INFO - ====== WebDriver manager ======
+2026-05-06 11:16:12,157 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:16:12,640 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:16:13,100 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:16:19,751 - INFO - Login successful
+2026-05-06 11:17:15,893 - INFO - ====== WebDriver manager ======
+2026-05-06 11:17:18,034 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:17:18,489 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:17:18,945 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:17:30,122 - INFO - ====== WebDriver manager ======
+2026-05-06 11:17:32,479 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:17:33,117 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:17:33,879 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:17:41,725 - INFO - Login successful
+2026-05-06 11:18:10,625 - INFO - ====== WebDriver manager ======
+2026-05-06 11:18:12,949 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:18:13,608 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:18:14,089 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:18:24,180 - INFO - Login successful
+2026-05-06 11:18:34,051 - INFO - ====== WebDriver manager ======
+2026-05-06 11:18:36,346 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:18:36,817 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:18:37,266 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:18:43,915 - INFO - Login successful
+2026-05-06 11:18:53,963 - INFO - ====== WebDriver manager ======
+2026-05-06 11:18:56,126 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:18:56,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:18:57,182 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:19:05,520 - INFO - Login successful
+2026-05-06 11:19:12,278 - INFO - ====== WebDriver manager ======
+2026-05-06 11:19:14,566 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:19:15,277 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:19:16,372 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:19:23,287 - INFO - Login successful
+2026-05-06 11:19:33,160 - INFO - ====== WebDriver manager ======
+2026-05-06 11:19:35,464 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:19:35,915 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:19:36,423 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:19:43,553 - INFO - Login successful
+2026-05-06 11:19:50,210 - INFO - ====== WebDriver manager ======
+2026-05-06 11:19:52,505 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:19:52,988 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:19:53,486 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:20:03,138 - INFO - ====== WebDriver manager ======
+2026-05-06 11:20:05,428 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:20:05,924 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:20:06,396 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:20:13,791 - INFO - Login successful
+2026-05-06 11:20:17,297 - INFO - ====== WebDriver manager ======
+2026-05-06 11:20:19,676 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:20:20,290 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:20:20,757 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:20:28,309 - INFO - Login successful
+2026-05-06 11:22:42,463 - INFO - ====== WebDriver manager ======
+2026-05-06 11:22:45,107 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:22:52,499 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:22:53,333 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:23:45,762 - INFO - ====== WebDriver manager ======
+2026-05-06 11:23:48,046 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:23:48,569 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:23:49,143 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:27:06,712 - INFO - ====== WebDriver manager ======
+2026-05-06 11:27:09,141 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:27:09,859 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:27:10,386 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:27:32,015 - INFO - ====== WebDriver manager ======
+2026-05-06 11:27:34,051 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:27:34,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:27:34,891 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:27:42,578 - INFO - Login successful
+2026-05-06 11:27:49,873 - INFO - ====== WebDriver manager ======
+2026-05-06 11:27:51,882 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:27:52,283 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:27:52,685 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:28:00,046 - INFO - Login successful
+2026-05-06 11:28:56,492 - INFO - ====== WebDriver manager ======
+2026-05-06 11:28:58,684 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:28:59,190 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:28:59,560 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:29:07,231 - INFO - Login successful
+2026-05-06 11:30:02,885 - INFO - ====== WebDriver manager ======
+2026-05-06 11:30:05,354 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:30:05,753 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:30:06,190 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:30:16,659 - INFO - ====== WebDriver manager ======
+2026-05-06 11:30:19,029 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:30:19,753 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:30:20,161 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:30:29,281 - INFO - Login successful
+2026-05-06 11:30:58,887 - INFO - ====== WebDriver manager ======
+2026-05-06 11:31:01,221 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:31:01,590 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:31:02,005 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:31:10,449 - INFO - Login successful
+2026-05-06 11:31:19,596 - INFO - ====== WebDriver manager ======
+2026-05-06 11:31:21,854 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:31:22,294 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:31:22,688 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:31:29,759 - INFO - Login successful
+2026-05-06 11:31:38,579 - INFO - ====== WebDriver manager ======
+2026-05-06 11:31:41,027 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:31:41,449 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:31:41,853 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:31:49,394 - INFO - Login successful
+2026-05-06 11:31:59,707 - INFO - ====== WebDriver manager ======
+2026-05-06 11:32:02,037 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:02,407 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:02,768 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:32:09,415 - INFO - Login successful
+2026-05-06 11:32:21,666 - INFO - ====== WebDriver manager ======
+2026-05-06 11:32:23,806 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:24,167 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:24,574 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:32:32,823 - INFO - Login successful
+2026-05-06 11:32:39,057 - INFO - ====== WebDriver manager ======
+2026-05-06 11:32:41,026 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:41,439 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:41,798 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:32:53,132 - INFO - ====== WebDriver manager ======
+2026-05-06 11:32:55,207 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:55,587 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:32:55,967 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:33:03,212 - INFO - Login successful
+2026-05-06 11:33:06,691 - INFO - ====== WebDriver manager ======
+2026-05-06 11:33:08,818 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:33:09,234 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:33:09,638 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:33:19,876 - INFO - Login successful
+2026-05-06 11:37:23,689 - INFO - ====== WebDriver manager ======
+2026-05-06 11:37:26,054 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:37:26,413 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:37:26,810 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:37:35,634 - INFO - Login successful
+2026-05-06 11:37:43,826 - INFO - ====== WebDriver manager ======
+2026-05-06 11:37:45,859 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:37:46,282 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:37:46,680 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:37:53,209 - INFO - Login successful
+2026-05-06 11:38:49,867 - INFO - ====== WebDriver manager ======
+2026-05-06 11:38:51,822 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:38:52,210 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:38:52,861 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:39:00,363 - INFO - Login successful
+2026-05-06 11:40:05,835 - INFO - ====== WebDriver manager ======
+2026-05-06 11:40:08,068 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:40:08,466 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:40:08,866 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:40:18,837 - INFO - ====== WebDriver manager ======
+2026-05-06 11:40:20,872 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:40:21,271 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:40:21,945 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:40:29,948 - INFO - Login successful
+2026-05-06 11:40:58,496 - INFO - ====== WebDriver manager ======
+2026-05-06 11:41:00,540 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:41:00,934 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:41:01,314 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:41:16,283 - INFO - Login successful
+2026-05-06 11:41:24,725 - INFO - ====== WebDriver manager ======
+2026-05-06 11:41:26,634 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:41:27,033 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:41:27,408 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:41:34,627 - INFO - Login successful
+2026-05-06 11:41:44,387 - INFO - ====== WebDriver manager ======
+2026-05-06 11:41:46,343 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:41:46,763 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:41:47,105 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:41:53,901 - INFO - Login successful
+2026-05-06 11:41:59,505 - INFO - ====== WebDriver manager ======
+2026-05-06 11:42:01,452 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:42:01,832 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:42:02,383 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:42:08,841 - INFO - Login successful
+2026-05-06 11:42:17,801 - INFO - ====== WebDriver manager ======
+2026-05-06 11:42:19,797 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:42:20,208 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:42:20,603 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:42:32,437 - INFO - ====== WebDriver manager ======
+2026-05-06 11:42:34,401 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:42:34,819 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:42:35,338 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:42:44,825 - INFO - Login successful
+2026-05-06 11:49:46,493 - INFO - ====== WebDriver manager ======
+2026-05-06 11:49:48,696 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:49:49,063 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:49:49,463 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:49:58,953 - INFO - Login successful
+2026-05-06 11:50:06,203 - INFO - ====== WebDriver manager ======
+2026-05-06 11:50:08,197 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:50:08,589 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:50:08,977 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:50:15,762 - INFO - Login successful
+2026-05-06 11:51:11,276 - INFO - ====== WebDriver manager ======
+2026-05-06 11:51:13,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:51:13,947 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:51:14,339 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:51:21,207 - INFO - Login successful
+2026-05-06 11:52:19,815 - INFO - ====== WebDriver manager ======
+2026-05-06 11:52:22,018 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:52:22,429 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:52:23,315 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:52:34,197 - INFO - ====== WebDriver manager ======
+2026-05-06 11:52:36,176 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:52:36,678 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:52:37,293 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:52:44,203 - INFO - Login successful
+2026-05-06 11:53:12,415 - INFO - ====== WebDriver manager ======
+2026-05-06 11:53:14,634 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:53:15,038 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:53:15,380 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:53:21,918 - INFO - Login successful
+2026-05-06 11:53:30,753 - INFO - ====== WebDriver manager ======
+2026-05-06 11:53:33,131 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:53:33,500 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:53:33,878 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:53:40,155 - INFO - Login successful
+2026-05-06 11:53:49,887 - INFO - ====== WebDriver manager ======
+2026-05-06 11:53:52,146 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:53:52,613 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:53:53,053 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:54:02,013 - INFO - Login successful
+2026-05-06 11:54:08,513 - INFO - ====== WebDriver manager ======
+2026-05-06 11:54:10,629 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:54:11,021 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:54:11,499 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:54:18,297 - INFO - Login successful
+2026-05-06 11:54:26,420 - INFO - ====== WebDriver manager ======
+2026-05-06 11:54:28,571 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:54:29,323 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:54:29,947 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:54:40,568 - INFO - ====== WebDriver manager ======
+2026-05-06 11:54:42,671 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:54:43,039 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 11:54:43,474 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 11:54:49,857 - INFO - Login successful
+2026-05-06 12:24:33,402 - INFO - ====== WebDriver manager ======
+2026-05-06 12:24:36,391 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:24:36,943 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:24:37,446 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:24:44,831 - INFO - Login successful
+2026-05-06 12:24:52,994 - INFO - ====== WebDriver manager ======
+2026-05-06 12:24:55,683 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:24:56,150 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:24:56,648 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:25:03,385 - INFO - Login successful
+2026-05-06 12:26:03,172 - INFO - ====== WebDriver manager ======
+2026-05-06 12:26:05,485 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:26:05,931 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:26:06,393 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:26:13,984 - INFO - Login successful
+2026-05-06 12:27:09,885 - INFO - ====== WebDriver manager ======
+2026-05-06 12:27:12,119 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:27:12,585 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:27:13,148 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:27:23,894 - INFO - ====== WebDriver manager ======
+2026-05-06 12:27:26,171 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:27:26,691 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:27:27,172 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:27:34,623 - INFO - Login successful
+2026-05-06 12:28:05,093 - INFO - ====== WebDriver manager ======
+2026-05-06 12:28:07,428 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:28:07,940 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:28:08,744 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:28:16,932 - INFO - Login successful
+2026-05-06 12:28:26,120 - INFO - ====== WebDriver manager ======
+2026-05-06 12:28:28,415 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:28:28,865 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:28:29,350 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:28:37,326 - INFO - Login successful
+2026-05-06 12:28:49,197 - INFO - ====== WebDriver manager ======
+2026-05-06 12:28:51,511 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:28:51,989 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:28:52,427 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:28:59,821 - INFO - Login successful
+2026-05-06 12:29:05,907 - INFO - ====== WebDriver manager ======
+2026-05-06 12:29:08,240 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:29:08,749 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:29:09,258 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:29:16,618 - INFO - Login successful
+2026-05-06 12:29:24,985 - INFO - ====== WebDriver manager ======
+2026-05-06 12:29:27,249 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:29:27,708 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:29:28,210 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:29:38,095 - INFO - ====== WebDriver manager ======
+2026-05-06 12:29:40,421 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:29:40,917 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 12:29:41,376 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 12:29:49,849 - INFO - Login successful
+2026-05-06 13:33:03,479 - INFO - ====== WebDriver manager ======
+2026-05-06 13:33:06,495 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:33:07,043 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:33:07,663 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:33:15,298 - INFO - Login successful
+2026-05-06 13:33:23,689 - INFO - ====== WebDriver manager ======
+2026-05-06 13:33:26,412 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:33:26,836 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:33:27,277 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:33:35,289 - INFO - Login successful
+2026-05-06 13:33:59,568 - INFO - ====== WebDriver manager ======
+2026-05-06 13:34:01,945 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:34:02,530 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:34:03,161 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:34:12,165 - INFO - Login successful
+2026-05-06 13:35:08,325 - INFO - ====== WebDriver manager ======
+2026-05-06 13:35:10,517 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:35:10,986 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:35:11,476 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:35:21,815 - INFO - ====== WebDriver manager ======
+2026-05-06 13:35:24,149 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:35:24,650 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:35:25,444 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:35:33,009 - INFO - Login successful
+2026-05-06 13:36:01,988 - INFO - ====== WebDriver manager ======
+2026-05-06 13:36:04,331 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:36:04,804 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:36:05,324 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:36:12,265 - INFO - Login successful
+2026-05-06 13:36:24,240 - INFO - ====== WebDriver manager ======
+2026-05-06 13:36:26,509 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:36:27,013 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:36:27,496 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:36:35,348 - INFO - Login successful
+2026-05-06 13:36:44,835 - INFO - ====== WebDriver manager ======
+2026-05-06 13:36:47,146 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:36:47,612 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:36:48,058 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:36:54,609 - INFO - Login successful
+2026-05-06 13:37:01,175 - INFO - ====== WebDriver manager ======
+2026-05-06 13:37:03,545 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:37:04,088 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:37:04,774 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:37:12,157 - INFO - Login successful
+2026-05-06 13:37:20,882 - INFO - ====== WebDriver manager ======
+2026-05-06 13:37:23,278 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:37:23,938 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:37:24,687 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:37:36,100 - INFO - ====== WebDriver manager ======
+2026-05-06 13:37:38,456 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:37:38,926 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:37:39,434 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:37:46,442 - INFO - Login successful
+2026-05-06 13:38:07,706 - INFO - ====== WebDriver manager ======
+2026-05-06 13:38:09,990 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:38:10,476 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:38:11,370 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:38:18,948 - INFO - Login successful
+2026-05-06 13:41:51,454 - INFO - ====== WebDriver manager ======
+2026-05-06 13:41:54,154 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:41:54,618 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:41:55,112 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:42:02,450 - INFO - Login successful
+2026-05-06 13:42:10,291 - INFO - ====== WebDriver manager ======
+2026-05-06 13:42:12,615 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:42:13,110 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:42:13,597 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:42:20,775 - INFO - Login successful
+2026-05-06 13:43:16,178 - INFO - ====== WebDriver manager ======
+2026-05-06 13:43:18,408 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:43:18,818 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:43:19,289 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:43:26,854 - INFO - Login successful
+2026-05-06 13:44:23,060 - INFO - ====== WebDriver manager ======
+2026-05-06 13:44:25,467 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:44:26,584 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:44:27,093 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:44:36,814 - INFO - ====== WebDriver manager ======
+2026-05-06 13:44:39,168 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:44:39,862 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:44:40,491 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:44:47,696 - INFO - Login successful
+2026-05-06 13:45:17,227 - INFO - ====== WebDriver manager ======
+2026-05-06 13:45:19,618 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:45:20,123 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:45:20,614 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:45:59,432 - INFO - ====== WebDriver manager ======
+2026-05-06 13:46:01,743 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:46:02,212 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:46:02,683 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:47:01,272 - INFO - Login successful
+2026-05-06 13:48:41,478 - INFO - ====== WebDriver manager ======
+2026-05-06 13:48:44,111 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:48:44,590 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:48:45,068 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:48:54,347 - INFO - Login successful
+2026-05-06 13:49:02,797 - INFO - ====== WebDriver manager ======
+2026-05-06 13:49:05,115 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:49:05,711 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:49:06,294 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:49:13,702 - INFO - Login successful
+2026-05-06 13:50:09,905 - INFO - ====== WebDriver manager ======
+2026-05-06 13:50:12,234 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:50:12,710 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:50:13,191 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:50:21,751 - INFO - Login successful
+2026-05-06 13:51:17,466 - INFO - ====== WebDriver manager ======
+2026-05-06 13:51:19,729 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:51:20,270 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:51:20,752 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:51:33,592 - INFO - ====== WebDriver manager ======
+2026-05-06 13:51:35,903 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:51:36,380 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:51:36,857 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:51:43,725 - INFO - Login successful
+2026-05-06 13:52:12,424 - INFO - ====== WebDriver manager ======
+2026-05-06 13:52:14,786 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:52:15,284 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:52:15,782 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:52:22,746 - INFO - Login successful
+2026-05-06 13:52:32,122 - INFO - ====== WebDriver manager ======
+2026-05-06 13:52:34,415 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:52:34,858 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:52:35,327 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:52:44,412 - INFO - Login successful
+2026-05-06 13:52:54,267 - INFO - ====== WebDriver manager ======
+2026-05-06 13:52:56,551 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:52:57,153 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:52:57,645 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:53:04,653 - INFO - Login successful
+2026-05-06 13:53:11,122 - INFO - ====== WebDriver manager ======
+2026-05-06 13:53:13,703 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:53:14,139 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:53:15,668 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:53:24,978 - INFO - Login successful
+2026-05-06 13:53:33,778 - INFO - ====== WebDriver manager ======
+2026-05-06 13:53:36,118 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:53:36,641 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:53:37,324 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:53:48,038 - INFO - ====== WebDriver manager ======
+2026-05-06 13:53:50,467 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:53:51,077 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 13:53:51,580 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 13:53:59,635 - INFO - Login successful
+2026-05-06 14:45:12,739 - INFO - xdist worker is: gw1
+2026-05-06 14:45:12,750 - INFO - ====== WebDriver manager ======
+2026-05-06 14:45:15,658 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:45:16,420 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:45:16,862 - INFO - xdist worker is: gw0
+2026-05-06 14:45:16,862 - INFO - ====== WebDriver manager ======
+2026-05-06 14:45:16,945 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:45:19,773 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:45:21,414 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:45:23,068 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:45:25,563 - INFO - Login successful
+2026-05-06 14:45:32,273 - INFO - Login successful
+2026-05-06 14:45:39,996 - INFO - xdist worker is: gw1
+2026-05-06 14:45:39,998 - INFO - ====== WebDriver manager ======
+2026-05-06 14:45:43,544 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:45:45,095 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:45:46,803 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:45:58,230 - INFO - xdist worker is: gw1
+2026-05-06 14:45:58,232 - INFO - ====== WebDriver manager ======
+2026-05-06 14:46:01,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:46:03,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:46:05,001 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:46:12,225 - INFO - Login successful
+2026-05-06 14:46:33,229 - INFO - xdist worker is: gw0
+2026-05-06 14:46:33,230 - INFO - ====== WebDriver manager ======
+2026-05-06 14:46:35,710 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:46:40,875 - INFO - xdist worker is: gw1
+2026-05-06 14:46:40,876 - INFO - ====== WebDriver manager ======
+2026-05-06 14:46:41,790 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:46:43,185 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:46:44,228 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:46:45,356 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:46:47,605 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:46:55,836 - INFO - Login successful
+2026-05-06 14:46:56,188 - INFO - Login successful
+2026-05-06 14:47:14,473 - INFO - xdist worker is: gw1
+2026-05-06 14:47:14,474 - INFO - ====== WebDriver manager ======
+2026-05-06 14:47:16,861 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:47:17,376 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:47:17,987 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:47:26,871 - INFO - Login successful
+2026-05-06 14:47:33,353 - INFO - xdist worker is: gw1
+2026-05-06 14:47:33,354 - INFO - ====== WebDriver manager ======
+2026-05-06 14:47:35,790 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:47:36,432 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:47:37,011 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:47:44,545 - INFO - Login successful
+2026-05-06 14:47:53,636 - INFO - xdist worker is: gw1
+2026-05-06 14:47:53,637 - INFO - ====== WebDriver manager ======
+2026-05-06 14:47:56,185 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:47:56,713 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:47:57,227 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:47:59,835 - INFO - xdist worker is: gw0
+2026-05-06 14:47:59,836 - INFO - ====== WebDriver manager ======
+2026-05-06 14:48:03,763 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:48:05,393 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:48:06,937 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:48:12,386 - INFO - xdist worker is: gw1
+2026-05-06 14:48:12,387 - INFO - ====== WebDriver manager ======
+2026-05-06 14:48:15,820 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:48:17,175 - INFO - Login successful
+2026-05-06 14:48:17,395 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:48:18,933 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:48:27,238 - INFO - Login successful
+2026-05-06 14:53:29,331 - INFO - xdist worker is: gw1
+2026-05-06 14:53:29,333 - INFO - ====== WebDriver manager ======
+2026-05-06 14:53:31,435 - INFO - xdist worker is: gw0
+2026-05-06 14:53:31,435 - INFO - ====== WebDriver manager ======
+2026-05-06 14:53:32,111 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:53:32,566 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:53:32,956 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:53:33,734 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:53:34,286 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:53:35,613 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:53:42,370 - INFO - Login successful
+2026-05-06 14:53:44,795 - INFO - Login successful
+2026-05-06 14:53:51,974 - INFO - xdist worker is: gw1
+2026-05-06 14:53:51,974 - INFO - ====== WebDriver manager ======
+2026-05-06 14:53:55,101 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:53:55,774 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:53:56,378 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:54:07,809 - INFO - xdist worker is: gw1
+2026-05-06 14:54:07,810 - INFO - ====== WebDriver manager ======
+2026-05-06 14:54:10,646 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:54:11,665 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:54:12,200 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:54:21,001 - INFO - Login successful
+2026-05-06 14:54:42,904 - INFO - xdist worker is: gw0
+2026-05-06 14:54:42,905 - INFO - ====== WebDriver manager ======
+2026-05-06 14:54:45,898 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:54:47,259 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:54:48,437 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:54:50,457 - INFO - xdist worker is: gw1
+2026-05-06 14:54:50,458 - INFO - ====== WebDriver manager ======
+2026-05-06 14:54:53,881 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:54:55,222 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:54:55,516 - INFO - Login successful
+2026-05-06 14:54:56,686 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:55:04,521 - INFO - Login successful
+2026-05-06 14:55:07,716 - INFO - xdist worker is: gw0
+2026-05-06 14:55:07,717 - INFO - ====== WebDriver manager ======
+2026-05-06 14:55:11,311 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:12,425 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:12,891 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:55:18,739 - INFO - xdist worker is: gw1
+2026-05-06 14:55:18,739 - INFO - ====== WebDriver manager ======
+2026-05-06 14:55:20,104 - INFO - Login successful
+2026-05-06 14:55:22,349 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:23,648 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:24,863 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:55:30,983 - INFO - xdist worker is: gw0
+2026-05-06 14:55:30,984 - INFO - ====== WebDriver manager ======
+2026-05-06 14:55:34,565 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:35,274 - INFO - Login successful
+2026-05-06 14:55:35,831 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:37,081 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:55:48,694 - INFO - xdist worker is: gw0
+2026-05-06 14:55:48,694 - INFO - ====== WebDriver manager ======
+2026-05-06 14:55:51,464 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:52,611 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:55:53,909 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:56:00,785 - INFO - Login successful
+2026-05-06 14:56:08,304 - INFO - xdist worker is: gw1
+2026-05-06 14:56:08,304 - INFO - ====== WebDriver manager ======
+2026-05-06 14:56:11,465 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:56:11,893 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:56:12,335 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:56:20,131 - INFO - Login successful
+2026-05-06 14:56:53,051 - INFO - xdist worker is: gw1
+2026-05-06 14:56:53,052 - INFO - ====== WebDriver manager ======
+2026-05-06 14:56:55,206 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:56:55,660 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:56:56,172 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:56:56,403 - INFO - xdist worker is: gw0
+2026-05-06 14:56:56,404 - INFO - ====== WebDriver manager ======
+2026-05-06 14:56:59,143 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:57:00,447 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:57:01,820 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:57:04,148 - INFO - Login successful
+2026-05-06 14:57:09,453 - INFO - Login successful
+2026-05-06 14:57:15,355 - INFO - xdist worker is: gw1
+2026-05-06 14:57:15,355 - INFO - ====== WebDriver manager ======
+2026-05-06 14:57:18,201 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:57:18,709 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:57:19,341 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:57:31,682 - INFO - xdist worker is: gw1
+2026-05-06 14:57:31,682 - INFO - ====== WebDriver manager ======
+2026-05-06 14:57:34,586 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:57:35,244 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:57:35,636 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:57:43,643 - INFO - Login successful
+2026-05-06 14:58:05,731 - INFO - xdist worker is: gw0
+2026-05-06 14:58:05,732 - INFO - ====== WebDriver manager ======
+2026-05-06 14:58:09,258 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:10,474 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:11,275 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:58:12,865 - INFO - xdist worker is: gw1
+2026-05-06 14:58:12,866 - INFO - ====== WebDriver manager ======
+2026-05-06 14:58:16,094 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:17,338 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:18,556 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:58:19,466 - INFO - Login successful
+2026-05-06 14:58:26,831 - INFO - Login successful
+2026-05-06 14:58:30,988 - INFO - xdist worker is: gw0
+2026-05-06 14:58:30,989 - INFO - ====== WebDriver manager ======
+2026-05-06 14:58:34,759 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:35,475 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:35,914 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:58:40,940 - INFO - xdist worker is: gw1
+2026-05-06 14:58:40,941 - INFO - ====== WebDriver manager ======
+2026-05-06 14:58:44,460 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:44,611 - INFO - Login successful
+2026-05-06 14:58:45,634 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:46,819 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:58:53,544 - INFO - xdist worker is: gw0
+2026-05-06 14:58:53,545 - INFO - ====== WebDriver manager ======
+2026-05-06 14:58:54,239 - INFO - Login successful
+2026-05-06 14:58:56,918 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:58,395 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:58:59,775 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:59:03,823 - INFO - xdist worker is: gw1
+2026-05-06 14:59:03,825 - INFO - ====== WebDriver manager ======
+2026-05-06 14:59:07,252 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:59:08,459 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:59:09,428 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:59:11,276 - INFO - xdist worker is: gw0
+2026-05-06 14:59:11,277 - INFO - ====== WebDriver manager ======
+2026-05-06 14:59:14,544 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:59:15,898 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 14:59:17,111 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 14:59:17,132 - INFO - Login successful
+2026-05-06 14:59:25,321 - INFO - Login successful
+2026-05-06 15:01:31,337 - INFO - ====== WebDriver manager ======
+2026-05-06 15:01:34,741 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:01:35,296 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:01:35,695 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:01:43,498 - INFO - Login successful
+2026-05-06 15:03:17,697 - INFO - ====== WebDriver manager ======
+2026-05-06 15:03:20,622 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:21,236 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:21,656 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:03:29,612 - INFO - Login successful
+2026-05-06 15:03:55,876 - INFO - xdist worker is: gw0
+2026-05-06 15:03:55,877 - INFO - ====== WebDriver manager ======
+2026-05-06 15:03:55,880 - INFO - xdist worker is: gw3
+2026-05-06 15:03:55,881 - INFO - ====== WebDriver manager ======
+2026-05-06 15:03:55,881 - INFO - xdist worker is: gw2
+2026-05-06 15:03:55,881 - INFO - xdist worker is: gw1
+2026-05-06 15:03:55,882 - INFO - ====== WebDriver manager ======
+2026-05-06 15:03:55,882 - INFO - ====== WebDriver manager ======
+2026-05-06 15:03:58,087 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:58,088 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:58,100 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:58,117 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:59,030 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:59,030 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:03:59,030 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:00,303 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:04:00,304 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:04:00,305 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:04:00,306 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:04:09,640 - INFO - Login successful
+2026-05-06 15:04:11,337 - INFO - Login successful
+2026-05-06 15:04:13,876 - INFO - Login successful
+2026-05-06 15:04:15,544 - INFO - Login successful
+2026-05-06 15:04:31,648 - INFO - xdist worker is: gw3
+2026-05-06 15:04:31,648 - INFO - ====== WebDriver manager ======
+2026-05-06 15:04:31,649 - INFO - xdist worker is: gw0
+2026-05-06 15:04:31,649 - INFO - ====== WebDriver manager ======
+2026-05-06 15:04:34,456 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:34,460 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:35,160 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:35,166 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:35,932 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:04:35,951 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:04:43,786 - INFO - Login successful
+2026-05-06 15:04:46,232 - INFO - Login successful
+2026-05-06 15:04:50,965 - INFO - xdist worker is: gw3
+2026-05-06 15:04:50,966 - INFO - ====== WebDriver manager ======
+2026-05-06 15:04:53,843 - INFO - xdist worker is: gw2
+2026-05-06 15:04:53,843 - INFO - ====== WebDriver manager ======
+2026-05-06 15:04:54,325 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:55,494 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:56,772 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:04:57,250 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:58,565 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:04:59,852 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:05:11,741 - INFO - Login successful
+2026-05-06 15:05:17,871 - INFO - xdist worker is: gw1
+2026-05-06 15:05:17,871 - INFO - ====== WebDriver manager ======
+2026-05-06 15:05:20,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:05:22,053 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:05:23,294 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:05:43,671 - INFO - xdist worker is: gw0
+2026-05-06 15:05:43,672 - INFO - ====== WebDriver manager ======
+2026-05-06 15:05:46,716 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:05:47,145 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:05:47,778 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:05:56,381 - INFO - Login successful
+2026-05-06 15:09:22,997 - INFO - xdist worker is: gw1
+2026-05-06 15:09:22,997 - INFO - ====== WebDriver manager ======
+2026-05-06 15:09:22,998 - INFO - xdist worker is: gw2
+2026-05-06 15:09:22,998 - INFO - ====== WebDriver manager ======
+2026-05-06 15:09:23,003 - INFO - xdist worker is: gw3
+2026-05-06 15:09:23,004 - INFO - xdist worker is: gw0
+2026-05-06 15:09:23,004 - INFO - ====== WebDriver manager ======
+2026-05-06 15:09:23,005 - INFO - ====== WebDriver manager ======
+2026-05-06 15:09:25,647 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:25,647 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:25,647 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:25,652 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:26,542 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:26,542 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:26,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:26,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:09:27,473 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:09:27,514 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:09:27,515 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:09:27,515 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:09:49,564 - INFO - Login successful
+2026-05-06 15:09:51,046 - INFO - Login successful
+2026-05-06 15:09:51,441 - INFO - Login successful
+2026-05-06 15:09:51,526 - INFO - Login successful
+2026-05-06 15:10:04,189 - INFO - xdist worker is: gw3
+2026-05-06 15:10:04,189 - INFO - ====== WebDriver manager ======
+2026-05-06 15:10:04,229 - INFO - xdist worker is: gw0
+2026-05-06 15:10:04,229 - INFO - ====== WebDriver manager ======
+2026-05-06 15:10:07,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:07,518 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:08,222 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:08,310 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:08,724 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:10:08,878 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:10:23,927 - INFO - Login successful
+2026-05-06 15:10:24,759 - INFO - Login successful
+2026-05-06 15:10:28,919 - INFO - xdist worker is: gw2
+2026-05-06 15:10:28,919 - INFO - ====== WebDriver manager ======
+2026-05-06 15:10:31,923 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:32,201 - INFO - xdist worker is: gw3
+2026-05-06 15:10:32,202 - INFO - ====== WebDriver manager ======
+2026-05-06 15:10:33,138 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:34,533 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:10:35,419 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:36,822 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:38,041 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:10:45,275 - INFO - Login successful
+2026-05-06 15:10:47,787 - INFO - xdist worker is: gw1
+2026-05-06 15:10:47,787 - INFO - ====== WebDriver manager ======
+2026-05-06 15:10:50,547 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:51,801 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:10:52,560 - INFO - Login successful
+2026-05-06 15:10:53,102 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:13:57,325 - INFO - xdist worker is: gw1
+2026-05-06 15:13:57,326 - INFO - ====== WebDriver manager ======
+2026-05-06 15:13:57,328 - INFO - xdist worker is: gw0
+2026-05-06 15:13:57,328 - INFO - xdist worker is: gw3
+2026-05-06 15:13:57,329 - INFO - ====== WebDriver manager ======
+2026-05-06 15:13:57,329 - INFO - ====== WebDriver manager ======
+2026-05-06 15:13:57,329 - INFO - xdist worker is: gw2
+2026-05-06 15:13:57,329 - INFO - ====== WebDriver manager ======
+2026-05-06 15:13:59,826 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:13:59,829 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:13:59,846 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:13:59,848 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:00,800 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:00,800 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:00,800 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:01,243 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:01,730 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:01,735 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:01,735 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:01,805 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:12,231 - INFO - Login successful
+2026-05-06 15:14:13,035 - INFO - Login successful
+2026-05-06 15:14:13,311 - INFO - Login successful
+2026-05-06 15:14:14,182 - INFO - Login successful
+2026-05-06 15:14:18,703 - INFO - xdist worker is: gw3
+2026-05-06 15:14:18,703 - INFO - ====== WebDriver manager ======
+2026-05-06 15:14:19,002 - INFO - xdist worker is: gw2
+2026-05-06 15:14:19,002 - INFO - ====== WebDriver manager ======
+2026-05-06 15:14:19,326 - INFO - xdist worker is: gw0
+2026-05-06 15:14:19,326 - INFO - ====== WebDriver manager ======
+2026-05-06 15:14:19,885 - INFO - xdist worker is: gw1
+2026-05-06 15:14:19,886 - INFO - ====== WebDriver manager ======
+2026-05-06 15:14:21,018 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:21,153 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:21,353 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:21,612 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:21,876 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:21,907 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:21,993 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:22,437 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:22,748 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:22,748 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:22,749 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:23,209 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:34,509 - INFO - Login successful
+2026-05-06 15:14:34,970 - INFO - Login successful
+2026-05-06 15:14:36,021 - INFO - Login successful
+2026-05-06 15:14:40,594 - INFO - xdist worker is: gw3
+2026-05-06 15:14:40,595 - INFO - ====== WebDriver manager ======
+2026-05-06 15:14:43,438 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:44,268 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:14:44,875 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:14:54,235 - INFO - Login successful
+2026-05-06 15:15:27,863 - INFO - xdist worker is: gw1
+2026-05-06 15:15:27,863 - INFO - ====== WebDriver manager ======
+2026-05-06 15:15:27,863 - INFO - ====== WebDriver manager ======
+2026-05-06 15:15:30,120 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:15:30,120 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:15:30,678 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:15:30,714 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:15:31,354 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:15:31,354 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:15:38,237 - INFO - Login successful
+2026-05-06 15:15:41,228 - INFO - Login successful
+2026-05-06 15:15:50,903 - INFO - xdist worker is: gw0
+2026-05-06 15:15:50,904 - INFO - ====== WebDriver manager ======
+2026-05-06 15:15:53,646 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:15:54,676 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:15:55,730 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:16:02,680 - INFO - Login successful
+2026-05-06 15:16:37,851 - INFO - xdist worker is: gw1
+2026-05-06 15:16:37,851 - INFO - ====== WebDriver manager ======
+2026-05-06 15:16:40,495 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:16:41,507 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:16:42,524 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:16:53,272 - INFO - xdist worker is: gw1
+2026-05-06 15:16:53,273 - INFO - ====== WebDriver manager ======
+2026-05-06 15:16:55,793 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:16:56,681 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:16:57,306 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:16:58,775 - INFO - xdist worker is: gw0
+2026-05-06 15:16:58,777 - INFO - ====== WebDriver manager ======
+2026-05-06 15:17:01,761 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:03,256 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:04,324 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:17:06,768 - INFO - Login successful
+2026-05-06 15:17:14,993 - INFO - Login successful
+2026-05-06 15:17:22,096 - INFO - xdist worker is: gw1
+2026-05-06 15:17:22,097 - INFO - ====== WebDriver manager ======
+2026-05-06 15:17:24,381 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:25,571 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:26,650 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:17:33,464 - INFO - Login successful
+2026-05-06 15:17:39,697 - INFO - xdist worker is: gw1
+2026-05-06 15:17:39,697 - INFO - ====== WebDriver manager ======
+2026-05-06 15:17:42,318 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:42,869 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:43,269 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:17:43,973 - INFO - xdist worker is: gw0
+2026-05-06 15:17:43,973 - INFO - ====== WebDriver manager ======
+2026-05-06 15:17:46,498 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:47,727 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:17:48,865 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:17:54,087 - INFO - Login successful
+2026-05-06 15:17:56,535 - INFO - Login successful
+2026-05-06 15:18:14,841 - INFO - xdist worker is: gw2
+2026-05-06 15:18:14,842 - INFO - ====== WebDriver manager ======
+2026-05-06 15:18:14,844 - INFO - xdist worker is: gw3
+2026-05-06 15:18:14,845 - INFO - ====== WebDriver manager ======
+2026-05-06 15:18:16,786 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:16,786 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:17,328 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:17,352 - INFO - xdist worker is: gw1
+2026-05-06 15:18:17,352 - INFO - ====== WebDriver manager ======
+2026-05-06 15:18:17,369 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:18,094 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:18:18,097 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:18:19,737 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:21,029 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:22,514 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:18:25,805 - INFO - xdist worker is: gw0
+2026-05-06 15:18:25,806 - INFO - ====== WebDriver manager ======
+2026-05-06 15:18:29,933 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:32,057 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:33,964 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:18:35,305 - INFO - xdist worker is: gw3
+2026-05-06 15:18:35,305 - INFO - ====== WebDriver manager ======
+2026-05-06 15:18:37,740 - INFO - Login successful
+2026-05-06 15:18:37,837 - INFO - Login successful
+2026-05-06 15:18:39,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:40,873 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:42,297 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:18:54,863 - INFO - xdist worker is: gw1
+2026-05-06 15:18:54,863 - INFO - ====== WebDriver manager ======
+2026-05-06 15:18:55,091 - INFO - Login successful
+2026-05-06 15:18:58,331 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:18:58,812 - INFO - Login successful
+2026-05-06 15:19:04,191 - INFO - xdist worker is: gw2
+2026-05-06 15:19:04,191 - INFO - ====== WebDriver manager ======
+2026-05-06 15:19:05,062 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:19:07,579 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:19:07,704 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:19:09,694 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:19:11,712 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:19:18,693 - INFO - xdist worker is: gw0
+2026-05-06 15:19:18,693 - INFO - ====== WebDriver manager ======
+2026-05-06 15:19:19,670 - INFO - Login successful
+2026-05-06 15:19:21,088 - INFO - Login successful
+2026-05-06 15:19:22,036 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:19:24,469 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:19:26,257 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:19:36,087 - INFO - Login successful
+2026-05-06 15:19:46,031 - INFO - xdist worker is: gw0
+2026-05-06 15:19:46,032 - INFO - ====== WebDriver manager ======
+2026-05-06 15:19:48,682 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:19:49,860 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:19:50,959 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:19:58,124 - INFO - Login successful
+2026-05-06 15:20:23,329 - INFO - xdist worker is: gw2
+2026-05-06 15:20:23,329 - INFO - ====== WebDriver manager ======
+2026-05-06 15:20:25,985 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:20:26,477 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:20:27,478 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:20:35,676 - INFO - Login successful
+2026-05-06 15:23:00,751 - INFO - xdist worker is: gw3
+2026-05-06 15:23:00,751 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:00,760 - INFO - xdist worker is: gw0
+2026-05-06 15:23:00,761 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:02,963 - INFO - xdist worker is: gw1
+2026-05-06 15:23:02,964 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:03,429 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:03,442 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:04,028 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:04,045 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:04,802 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:04,816 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:05,112 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:06,137 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:07,783 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:08,266 - INFO - xdist worker is: gw2
+2026-05-06 15:23:08,268 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:11,823 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:14,038 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:16,999 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:17,096 - INFO - Login successful
+2026-05-06 15:23:21,515 - INFO - xdist worker is: gw3
+2026-05-06 15:23:21,515 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:23,076 - INFO - Login successful
+2026-05-06 15:23:23,817 - INFO - xdist worker is: gw0
+2026-05-06 15:23:23,817 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:24,931 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:26,786 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:28,851 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:29,641 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:30,142 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:31,460 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:32,273 - INFO - xdist worker is: gw1
+2026-05-06 15:23:32,273 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:33,908 - INFO - Login successful
+2026-05-06 15:23:35,599 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:37,541 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:38,935 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:46,072 - INFO - xdist worker is: gw2
+2026-05-06 15:23:46,081 - INFO - ====== WebDriver manager ======
+2026-05-06 15:23:46,940 - INFO - Login successful
+2026-05-06 15:23:51,342 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:51,442 - INFO - Login successful
+2026-05-06 15:23:53,270 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:23:55,045 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:23:56,696 - INFO - Login successful
+2026-05-06 15:24:03,897 - INFO - xdist worker is: gw1
+2026-05-06 15:24:03,899 - INFO - ====== WebDriver manager ======
+2026-05-06 15:24:05,574 - INFO - Login successful
+2026-05-06 15:24:07,592 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:24:09,583 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:24:10,391 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:24:11,879 - INFO - xdist worker is: gw2
+2026-05-06 15:24:11,879 - INFO - ====== WebDriver manager ======
+2026-05-06 15:24:15,344 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:24:18,254 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:24:19,945 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:24:21,414 - INFO - Login successful
+2026-05-06 15:24:27,768 - INFO - Login successful
+2026-05-06 15:30:04,063 - INFO - xdist worker is: gw3
+2026-05-06 15:30:04,063 - INFO - ====== WebDriver manager ======
+2026-05-06 15:30:07,036 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:30:07,739 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:30:08,312 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:30:15,458 - INFO - Login successful
+2026-05-06 15:33:25,495 - INFO - xdist worker is: gw2
+2026-05-06 15:33:25,495 - INFO - ====== WebDriver manager ======
+2026-05-06 15:33:25,495 - INFO - xdist worker is: gw3
+2026-05-06 15:33:25,495 - INFO - ====== WebDriver manager ======
+2026-05-06 15:33:27,778 - INFO - xdist worker is: gw1
+2026-05-06 15:33:27,778 - INFO - ====== WebDriver manager ======
+2026-05-06 15:33:28,262 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:29,259 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:29,287 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:30,125 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:30,144 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:33:30,838 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:32,160 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:33:35,282 - INFO - xdist worker is: gw0
+2026-05-06 15:33:35,287 - INFO - ====== WebDriver manager ======
+2026-05-06 15:33:39,792 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:40,989 - INFO - Login successful
+2026-05-06 15:33:42,530 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:43,320 - INFO - Login successful
+2026-05-06 15:33:44,779 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:33:49,184 - INFO - xdist worker is: gw1
+2026-05-06 15:33:49,185 - INFO - ====== WebDriver manager ======
+2026-05-06 15:33:50,831 - INFO - xdist worker is: gw2
+2026-05-06 15:33:50,832 - INFO - ====== WebDriver manager ======
+2026-05-06 15:33:51,956 - INFO - Login successful
+2026-05-06 15:33:52,394 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:53,891 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:54,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:55,861 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:33:56,701 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:33:58,461 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:34:02,593 - INFO - xdist worker is: gw0
+2026-05-06 15:34:02,604 - INFO - ====== WebDriver manager ======
+2026-05-06 15:34:07,785 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:34:08,876 - INFO - Login successful
+2026-05-06 15:34:09,100 - INFO - xdist worker is: gw3
+2026-05-06 15:34:09,100 - INFO - ====== WebDriver manager ======
+2026-05-06 15:34:09,806 - INFO - Login successful
+2026-05-06 15:34:09,856 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:34:11,947 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:34:12,711 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:34:14,354 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:34:15,857 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:34:22,312 - INFO - Login successful
+2026-05-06 15:34:27,095 - INFO - Login successful
+2026-05-06 15:34:31,832 - INFO - xdist worker is: gw3
+2026-05-06 15:34:31,833 - INFO - ====== WebDriver manager ======
+2026-05-06 15:34:34,672 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:34:36,574 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:34:43,093 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:34:54,992 - INFO - xdist worker is: gw0
+2026-05-06 15:34:54,994 - INFO - ====== WebDriver manager ======
+2026-05-06 15:34:56,725 - INFO - Login successful
+2026-05-06 15:34:58,654 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:35:00,178 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:35:01,082 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:35:15,678 - INFO - Login successful
+2026-05-06 15:42:25,506 - INFO - xdist worker is: gw2
+2026-05-06 15:42:25,507 - INFO - ====== WebDriver manager ======
+2026-05-06 15:42:25,507 - INFO - xdist worker is: gw3
+2026-05-06 15:42:25,508 - INFO - ====== WebDriver manager ======
+2026-05-06 15:42:27,750 - INFO - xdist worker is: gw1
+2026-05-06 15:42:27,750 - INFO - ====== WebDriver manager ======
+2026-05-06 15:42:28,246 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:28,246 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:29,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:29,286 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:30,004 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:42:30,004 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:42:30,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:30,859 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:32,329 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:42:33,559 - INFO - xdist worker is: gw0
+2026-05-06 15:42:33,560 - INFO - ====== WebDriver manager ======
+2026-05-06 15:42:38,735 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:41,765 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:42:43,685 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:42:51,496 - INFO - Login successful
+2026-05-06 15:42:54,706 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:42:55,550 - INFO - Login successful
+2026-05-06 15:42:56,712 - INFO - Entering text : UI_API_1778062374
+2026-05-06 15:42:57,082 - INFO - Entering text : This is UI to API validation
+2026-05-06 15:42:57,917 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:42:58,656 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 15:42:58,905 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:43:02,786 - INFO - Login successful
+2026-05-06 15:43:03,944 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:43:05,057 - INFO - xdist worker is: gw3
+2026-05-06 15:43:05,058 - INFO - ====== WebDriver manager ======
+2026-05-06 15:43:06,378 - INFO - Entering text : Duplicate_Test
+2026-05-06 15:43:06,587 - INFO - xdist worker is: gw1
+2026-05-06 15:43:06,587 - INFO - ====== WebDriver manager ======
+2026-05-06 15:43:06,787 - INFO - Entering text : This is the Duplicate case
+2026-05-06 15:43:07,284 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:43:08,452 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:08,623 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:43:08,750 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:43:09,087 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:09,709 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:43:09,745 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:10,196 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:10,610 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:43:14,145 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:43:15,775 - INFO - Entering text : Duplicate_Test
+2026-05-06 15:43:16,332 - INFO - Entering text : This is the Duplicate case
+2026-05-06 15:43:16,863 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:43:17,566 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:43:17,711 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:43:25,078 - INFO - Login successful
+2026-05-06 15:43:26,215 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:43:27,740 - INFO - Entering text : InvalidCat
+2026-05-06 15:43:28,149 - INFO - Entering text : Test
+2026-05-06 15:43:28,553 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:43:29,226 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 15:43:29,388 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:43:31,109 - INFO - Login successful
+2026-05-06 15:43:32,784 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:43:34,335 - INFO - Entering text : 
+2026-05-06 15:43:34,599 - INFO - Entering text : Description without title
+2026-05-06 15:43:35,012 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:43:35,442 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:43:35,578 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:43:37,966 - INFO - xdist worker is: gw2
+2026-05-06 15:43:37,967 - INFO - ====== WebDriver manager ======
+2026-05-06 15:43:39,226 - INFO - xdist worker is: gw0
+2026-05-06 15:43:39,226 - INFO - ====== WebDriver manager ======
+2026-05-06 15:43:39,317 - INFO - xdist worker is: gw1
+2026-05-06 15:43:39,317 - INFO - ====== WebDriver manager ======
+2026-05-06 15:43:40,908 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:41,420 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:41,925 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:41,968 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:43:41,991 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:42,609 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:42,809 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:43:43,562 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:43:44,212 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:43:52,344 - INFO - Login successful
+2026-05-06 15:43:53,796 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:43:54,875 - INFO - Login successful
+2026-05-06 15:43:55,460 - INFO - Entering text : E2E_1778062433
+2026-05-06 15:43:55,852 - INFO - Entering text : This is a full cycle test
+2026-05-06 15:43:56,323 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:43:56,683 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:43:57,396 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 15:43:57,535 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:43:58,048 - INFO - Entering text : Automation Note FINAL
+2026-05-06 15:43:58,534 - INFO - Entering text : Created after proper wait
+2026-05-06 15:43:58,979 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:43:59,551 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:43:59,697 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:44:17,668 - INFO - Login successful
+2026-05-06 15:45:07,761 - INFO - xdist worker is: gw2
+2026-05-06 15:45:07,761 - INFO - ====== WebDriver manager ======
+2026-05-06 15:45:10,257 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:45:10,723 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:45:11,138 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:45:21,505 - INFO - Login successful
+2026-05-06 15:45:22,627 - INFO - Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+2026-05-06 15:45:23,899 - INFO - Entering text : Instant UI Note
+2026-05-06 15:45:24,194 - INFO - Entering text : UI Validation Check
+2026-05-06 15:45:24,514 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:45:24,849 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:45:24,986 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:47:57,736 - INFO - xdist worker is: gw3
+2026-05-06 15:47:57,737 - INFO - ====== WebDriver manager ======
+2026-05-06 15:47:57,738 - INFO - xdist worker is: gw0
+2026-05-06 15:47:57,739 - INFO - ====== WebDriver manager ======
+2026-05-06 15:48:00,411 - INFO - xdist worker is: gw2
+2026-05-06 15:48:00,412 - INFO - ====== WebDriver manager ======
+2026-05-06 15:48:01,013 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:01,016 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:01,990 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:01,992 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:02,929 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:48:02,942 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:48:03,107 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:04,601 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:05,188 - INFO - xdist worker is: gw1
+2026-05-06 15:48:05,188 - INFO - ====== WebDriver manager ======
+2026-05-06 15:48:08,734 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:09,400 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:48:10,961 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:15,496 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:48:23,205 - INFO - Login successful
+2026-05-06 15:48:27,533 - INFO - Entering text : Delete_1778062705
+2026-05-06 15:48:28,630 - INFO - Entering text : This is a delete sync test
+2026-05-06 15:48:29,568 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:48:29,629 - INFO - xdist worker is: gw3
+2026-05-06 15:48:29,630 - INFO - ====== WebDriver manager ======
+2026-05-06 15:48:31,202 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:48:31,368 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:48:31,962 - INFO - Login successful
+2026-05-06 15:48:32,662 - INFO - Login successful
+2026-05-06 15:48:35,106 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:35,789 - INFO - Entering text : Duplicate_Test
+2026-05-06 15:48:36,301 - INFO - Entering text : This is the Duplicate case
+2026-05-06 15:48:36,802 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:48:37,420 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:48:37,721 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:48:37,733 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:48:38,749 - INFO - Entering text : UI_API_1778062716
+2026-05-06 15:48:39,395 - INFO - Entering text : This is UI to API validation
+2026-05-06 15:48:39,661 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:48:39,918 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:48:40,569 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 15:48:40,822 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:48:54,246 - INFO - Entering text : Duplicate_Test
+2026-05-06 15:48:54,612 - INFO - Entering text : This is the Duplicate case
+2026-05-06 15:48:54,752 - INFO - xdist worker is: gw2
+2026-05-06 15:48:54,753 - INFO - ====== WebDriver manager ======
+2026-05-06 15:48:55,224 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:48:55,886 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:48:56,066 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:48:59,160 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:01,389 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:02,682 - INFO - Login successful
+2026-05-06 15:49:04,617 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:49:06,318 - INFO - Entering text : 
+2026-05-06 15:49:06,972 - INFO - Entering text : Description without title
+2026-05-06 15:49:07,650 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:49:08,345 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:49:08,527 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:49:10,282 - INFO - xdist worker is: gw1
+2026-05-06 15:49:10,283 - INFO - ====== WebDriver manager ======
+2026-05-06 15:49:13,569 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:15,744 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:19,401 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:49:36,466 - INFO - xdist worker is: gw3
+2026-05-06 15:49:36,467 - INFO - ====== WebDriver manager ======
+2026-05-06 15:49:36,560 - INFO - xdist worker is: gw0
+2026-05-06 15:49:36,562 - INFO - ====== WebDriver manager ======
+2026-05-06 15:49:39,815 - INFO - Login successful
+2026-05-06 15:49:40,760 - INFO - Login successful
+2026-05-06 15:49:40,822 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:40,852 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:42,842 - INFO - Entering text : InvalidCat
+2026-05-06 15:49:43,001 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:43,374 - INFO - Entering text : Automation Note FINAL
+2026-05-06 15:49:43,399 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:49:43,399 - INFO - Entering text : Test
+2026-05-06 15:49:43,838 - INFO - Entering text : Created after proper wait
+2026-05-06 15:49:43,939 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:49:44,545 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:49:44,828 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 15:49:44,910 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:49:44,928 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:49:44,991 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:49:45,295 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:49:45,468 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:50:06,296 - INFO - xdist worker is: gw1
+2026-05-06 15:50:06,298 - INFO - ====== WebDriver manager ======
+2026-05-06 15:50:09,933 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:50:11,987 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 15:50:13,200 - INFO - Login successful
+2026-05-06 15:50:21,762 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 15:50:22,715 - INFO - Login successful
+2026-05-06 15:50:28,399 - INFO - Entering text : E2E_1778062826
+2026-05-06 15:50:28,905 - INFO - Entering text : This is a full cycle test
+2026-05-06 15:50:29,754 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:50:30,321 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 15:50:30,478 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 15:50:40,291 - INFO - Login successful
+2026-05-06 15:50:42,629 - INFO - Entering text : Instant UI Note
+2026-05-06 15:50:42,888 - INFO - Entering text : UI Validation Check
+2026-05-06 15:50:43,174 - INFO - Clicking on : ('id', 'category')
+2026-05-06 15:50:43,541 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 15:50:43,694 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 18:29:55,924 - INFO - xdist worker is: gw2
+2026-05-06 18:29:55,924 - INFO - ====== WebDriver manager ======
+2026-05-06 18:29:55,924 - INFO - ====== WebDriver manager ======
+2026-05-06 18:29:58,171 - INFO - xdist worker is: gw1
+2026-05-06 18:29:58,171 - INFO - ====== WebDriver manager ======
+2026-05-06 18:29:58,346 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:29:59,377 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:29:59,378 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:00,158 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:30:00,384 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:30:00,546 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:01,328 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:03,409 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:30:05,321 - INFO - xdist worker is: gw0
+2026-05-06 18:30:05,347 - INFO - ====== WebDriver manager ======
+2026-05-06 18:30:12,412 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:14,959 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:17,759 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:30:34,721 - INFO - Login successful
+2026-05-06 18:30:36,505 - INFO - Login successful
+2026-05-06 18:30:37,136 - INFO - Entering text : InvalidCat
+2026-05-06 18:30:37,540 - INFO - Entering text : Test
+2026-05-06 18:30:37,964 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:30:38,465 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 18:30:38,674 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 18:30:44,628 - INFO - Login successful
+2026-05-06 18:30:47,765 - INFO - xdist worker is: gw3
+2026-05-06 18:30:47,766 - INFO - ====== WebDriver manager ======
+2026-05-06 18:30:51,095 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:52,840 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:52,987 - INFO - xdist worker is: gw0
+2026-05-06 18:30:52,989 - INFO - ====== WebDriver manager ======
+2026-05-06 18:30:54,193 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:30:56,167 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:57,744 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:30:59,420 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:31:04,318 - INFO - xdist worker is: gw1
+2026-05-06 18:31:04,322 - INFO - ====== WebDriver manager ======
+2026-05-06 18:31:10,476 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:31:13,061 - INFO - Login successful
+2026-05-06 18:31:13,171 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:31:15,435 - INFO - Login successful
+2026-05-06 18:31:15,483 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:31:15,985 - INFO - Entering text : Automation Note FINAL
+2026-05-06 18:31:16,328 - INFO - Entering text : Created after proper wait
+2026-05-06 18:31:17,204 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:31:17,903 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:31:18,115 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 18:31:18,642 - INFO - xdist worker is: gw2
+2026-05-06 18:31:18,643 - INFO - ====== WebDriver manager ======
+2026-05-06 18:31:24,138 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:31:25,827 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:31:27,369 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:31:27,635 - INFO - xdist worker is: gw0
+2026-05-06 18:31:27,635 - INFO - ====== WebDriver manager ======
+2026-05-06 18:31:28,878 - INFO - Login successful
+2026-05-06 18:31:31,817 - INFO - Entering text : Duplicate_Test
+2026-05-06 18:31:32,299 - INFO - Entering text : This is the Duplicate case
+2026-05-06 18:31:32,299 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:31:33,161 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:31:33,876 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:31:34,036 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 18:31:34,733 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:31:38,631 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:31:54,362 - INFO - Login successful
+2026-05-06 18:31:54,768 - INFO - Login successful
+2026-05-06 18:31:56,807 - INFO - Entering text : Instant UI Note
+2026-05-06 18:31:57,029 - INFO - Entering text : UI Validation Check
+2026-05-06 18:31:57,282 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:31:57,530 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:31:57,611 - INFO - Clicking on : ('xpath', "//button[text()='Create']")
+2026-05-06 18:32:04,244 - INFO - xdist worker is: gw1
+2026-05-06 18:32:04,244 - INFO - ====== WebDriver manager ======
+2026-05-06 18:32:06,616 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:32:07,494 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:32:08,755 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:32:20,193 - INFO - Login successful
+2026-05-06 18:38:22,606 - INFO - xdist worker is: gw3
+2026-05-06 18:38:22,606 - INFO - xdist worker is: gw2
+2026-05-06 18:38:22,606 - INFO - ====== WebDriver manager ======
+2026-05-06 18:38:22,606 - INFO - ====== WebDriver manager ======
+2026-05-06 18:38:24,664 - INFO - xdist worker is: gw1
+2026-05-06 18:38:24,665 - INFO - ====== WebDriver manager ======
+2026-05-06 18:38:25,683 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:25,687 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:26,611 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:26,611 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:27,321 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:27,329 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:38:27,402 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:38:28,120 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:31,665 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:38:32,695 - INFO - xdist worker is: gw0
+2026-05-06 18:38:32,696 - INFO - ====== WebDriver manager ======
+2026-05-06 18:38:39,509 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:42,094 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:38:44,487 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:39:29,626 - INFO - Login successful
+2026-05-06 18:39:32,673 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:39:33,240 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 18:39:51,784 - INFO - Login successful
+2026-05-06 18:39:53,972 - INFO - xdist worker is: gw3
+2026-05-06 18:39:53,972 - INFO - ====== WebDriver manager ======
+2026-05-06 18:39:55,062 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:39:55,560 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:39:56,244 - INFO - xdist worker is: gw0
+2026-05-06 18:39:56,245 - INFO - ====== WebDriver manager ======
+2026-05-06 18:39:58,144 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:39:58,864 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:39:59,703 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:40:00,239 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:40:01,062 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:40:02,927 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:40:21,684 - INFO - Login successful
+2026-05-06 18:40:26,724 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:40:27,988 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:40:28,860 - INFO - Login successful
+2026-05-06 18:40:35,592 - INFO - xdist worker is: gw0
+2026-05-06 18:40:35,593 - INFO - ====== WebDriver manager ======
+2026-05-06 18:40:39,286 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:40:40,730 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:40:42,324 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:40:53,718 - INFO - Login successful
+2026-05-06 18:40:54,899 - INFO - xdist worker is: gw2
+2026-05-06 18:40:54,900 - INFO - ====== WebDriver manager ======
+2026-05-06 18:40:56,662 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:40:56,966 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:40:58,694 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:41:00,231 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:41:01,656 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:41:06,322 - INFO - xdist worker is: gw0
+2026-05-06 18:41:06,322 - INFO - ====== WebDriver manager ======
+2026-05-06 18:41:11,064 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:41:11,851 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:41:12,457 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:41:18,075 - INFO - Login successful
+2026-05-06 18:41:23,317 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:41:23,890 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 18:41:27,483 - INFO - Login successful
+2026-05-06 18:42:50,558 - INFO - xdist worker is: gw1
+2026-05-06 18:42:50,558 - INFO - ====== WebDriver manager ======
+2026-05-06 18:42:52,802 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:42:53,251 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:42:53,683 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:43:04,798 - INFO - Login successful
+2026-05-06 18:43:07,385 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:43:07,602 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:43:14,031 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:43:14,298 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-06 18:44:12,366 - INFO - ====== WebDriver manager ======
+2026-05-06 18:44:15,684 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:44:16,126 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:44:16,746 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:44:27,497 - INFO - Login successful
+2026-05-06 18:44:31,578 - INFO - Clicking on : ('id', 'category')
+2026-05-06 18:44:31,899 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-06 18:48:36,464 - INFO - xdist worker is: gw2
+2026-05-06 18:48:36,464 - INFO - ====== WebDriver manager ======
+2026-05-06 18:48:36,464 - INFO - xdist worker is: gw3
+2026-05-06 18:48:36,465 - INFO - ====== WebDriver manager ======
+2026-05-06 18:48:39,204 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:48:39,263 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:48:39,894 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:48:39,936 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:48:40,618 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:48:40,624 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:49:07,962 - INFO - xdist worker is: gw1
+2026-05-06 18:49:07,963 - INFO - ====== WebDriver manager ======
+2026-05-06 18:49:10,518 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:12,194 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:13,739 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:49:15,571 - INFO - xdist worker is: gw0
+2026-05-06 18:49:15,573 - INFO - ====== WebDriver manager ======
+2026-05-06 18:49:19,536 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:20,044 - INFO - xdist worker is: gw1
+2026-05-06 18:49:20,045 - INFO - ====== WebDriver manager ======
+2026-05-06 18:49:20,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:27,931 - INFO - xdist worker is: gw3
+2026-05-06 18:49:27,931 - INFO - ====== WebDriver manager ======
+2026-05-06 18:49:27,934 - INFO - xdist worker is: gw2
+2026-05-06 18:49:27,934 - INFO - ====== WebDriver manager ======
+2026-05-06 18:49:30,156 - INFO - xdist worker is: gw1
+2026-05-06 18:49:30,156 - INFO - ====== WebDriver manager ======
+2026-05-06 18:49:30,157 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:30,162 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:30,949 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:30,976 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:32,074 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:49:32,076 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:49:32,526 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:35,028 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:37,711 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:49:39,399 - INFO - xdist worker is: gw0
+2026-05-06 18:49:39,400 - INFO - ====== WebDriver manager ======
+2026-05-06 18:49:45,570 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:47,533 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:49:50,958 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:50:04,931 - INFO - Login successful
+2026-05-06 18:50:23,883 - INFO - Login successful
+2026-05-06 18:50:26,667 - INFO - Login successful
+2026-05-06 18:50:32,162 - INFO - xdist worker is: gw3
+2026-05-06 18:50:32,162 - INFO - ====== WebDriver manager ======
+2026-05-06 18:50:32,646 - INFO - xdist worker is: gw1
+2026-05-06 18:50:32,646 - INFO - ====== WebDriver manager ======
+2026-05-06 18:50:32,679 - INFO - xdist worker is: gw2
+2026-05-06 18:50:32,679 - INFO - ====== WebDriver manager ======
+2026-05-06 18:50:34,744 - INFO - xdist worker is: gw0
+2026-05-06 18:50:34,744 - INFO - ====== WebDriver manager ======
+2026-05-06 18:50:35,220 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:35,568 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:35,630 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:35,914 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:36,487 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:36,542 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:36,703 - INFO - Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:50:37,283 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:50:37,366 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:37,369 - INFO - Driver [C:\Users\yashw\.wdm\gw2\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:50:39,428 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-06 18:50:42,461 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-06 18:50:52,714 - INFO - Login successful
+2026-05-06 18:51:06,157 - INFO - Login successful

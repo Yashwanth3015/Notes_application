@@ -28,8 +28,15 @@ logger = logging.getLogger()
 def driver():
 
     options = webdriver.ChromeOptions()
+
     options.add_argument("--disable-notifications")
     options.add_argument("--incognito")
+
+    # Stability for parallel execution
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--remote-allow-origins=*")
 
     driver = webdriver.Chrome(
         service=Service(ChromeDriverManager().install()),
@@ -37,7 +44,9 @@ def driver():
     )
 
     driver.maximize_window()
+
     yield driver
+
     driver.quit()
 
 

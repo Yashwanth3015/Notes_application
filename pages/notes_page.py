@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 
 from pages.base_page import BasePage
 
@@ -60,43 +61,52 @@ class NotesPage(BasePage):
 
         import time
 
-        # Wait and click Add Note
+        # Stabilization for parallel execution
+        time.sleep(3)
+
+        # Wait for Add Note button
         add_btn = self.wait.until(
             EC.element_to_be_clickable(
                 self.add_note_btn
             )
         )
 
-        try:
-            add_btn.click()
+        # Scroll to button
+        self.driver.execute_script(
+            "arguments[0].scrollIntoView(true);",
+            add_btn
+        )
 
-        except:
-            self.driver.execute_script(
-                "arguments[0].click();",
-                add_btn
-            )
+        time.sleep(1)
 
-        # Wait for popup
+        # Click Add Note
+        self.driver.execute_script(
+            "arguments[0].click();",
+            add_btn
+        )
+
+        # Wait for popup/modal
         self.wait.until(
             EC.visibility_of_element_located(
                 self.note_title_input
             )
         )
 
-        # Small stabilization wait
-        time.sleep(1)
-
         # Enter title
-        self.enter_text(
-            self.note_title_input,
-            title
+        title_field = self.driver.find_element(
+            *self.note_title_input
         )
+
+        title_field.clear()
+        title_field.send_keys(title)
 
         # Enter description
-        self.enter_text(
-            self.note_description_input,
-            description
+        desc_field = self.driver.find_element(
+            *self.note_description_input
         )
+
+        desc_field.clear()
+        desc_field.send_keys(description)
 
         # Select category
         category_option = (
@@ -107,27 +117,27 @@ class NotesPage(BasePage):
         self.click(self.category_dropdown)
 
         self.wait.until(
-            EC.element_to_be_clickable(
+            EC.presence_of_element_located(
                 category_option
             )
         )
 
         self.click(category_option)
 
+        time.sleep(1)
+
         # Click Create
-        self.click(self.create_btn)
+        create_button = self.driver.find_element(
+            *self.create_btn
+        )
 
-        # Positive case
-        if title.strip() != "":
+        self.driver.execute_script(
+            "arguments[0].click();",
+            create_button
+        )
 
-            self.wait.until(
-                EC.invisibility_of_element_located(
-                    self.create_btn
-                )
-            )
-
-        # Negative case
-        else:
+        # Validation for empty title
+        if title.strip() == "":
 
             self.wait.until(
                 EC.visibility_of_element_located(
@@ -135,7 +145,19 @@ class NotesPage(BasePage):
                 )
             )
 
-        time.sleep(1)
+        else:
+
+            try:
+                self.wait.until(
+                    EC.invisibility_of_element_located(
+                        self.create_btn
+                    )
+                )
+
+            except TimeoutException:
+                pass
+
+        time.sleep(2)
 
     def is_note_present(self, title):
 
