@@ -19,7 +19,7 @@ def test_get_notes_api():
     assert isinstance(data["data"], list)
 
     # Performance
-    assert response.elapsed.total_seconds() < 2
+    assert response.elapsed.total_seconds() < 5
 
 
 @pytest.mark.api

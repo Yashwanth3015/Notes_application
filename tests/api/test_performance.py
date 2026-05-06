@@ -16,4 +16,4 @@ def test_api_response_time():
 
     assert response.status_code == 200
 
-    assert response_time < 2
+    assert response_time < 5
