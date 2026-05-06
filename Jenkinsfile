@@ -6,7 +6,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'YOUR_GITHUB_REPO_LINK'
+                git 'https://github.com/Yashwanth3015/Notes_application.git'
             }
         }
 
