@@ -1,0 +1,12 @@
+[32mINFO    [0m WDM:logger.py:11 xdist worker is: gw3
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\gw3\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:59 Login successful
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('xpath', "//button[contains(text(),'Add Note')]")
+[32mINFO    [0m root:base_page.py:34 Entering text : 
+[32mINFO    [0m root:base_page.py:34 Entering text : Description without title
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('id', 'category')
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('xpath', "//option[text()='Home']")
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('xpath', "//button[text()='Create']")
