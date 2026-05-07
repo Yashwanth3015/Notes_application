@@ -2,53 +2,148 @@ import pytest
 import allure
 import logging
 import os
+
 from datetime import datetime
+
 from allure_commons.types import AttachmentType
+
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+
 from webdriver_manager.chrome import ChromeDriverManager
 
 from pages.home_page import HomePage
 from pages.login_page import LoginPage
+
 from utils.config import UI_URL, EMAIL, PASSWORD
 
 
-# ----------------------------
-# Logging setup
-# ----------------------------
+# =====================================================
+# CREATE FOLDERS
+# =====================================================
+
+os.makedirs("logs", exist_ok=True)
+os.makedirs("screenshots", exist_ok=True)
+
+
+# =====================================================
+# LOGGING SETUP
+# =====================================================
+
 logging.basicConfig(
     filename="logs/test.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
+
 logger = logging.getLogger()
 
 
-@pytest.fixture(scope="function")
-def driver():
+# =====================================================
+# PYTEST CUSTOM OPTION
+# =====================================================
 
-    options = webdriver.ChromeOptions()
+def pytest_addoption(parser):
 
-    options.add_argument("--disable-notifications")
-    options.add_argument("--incognito")
-
-    # Stability for parallel execution
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--remote-allow-origins=*")
-
-    driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager().install()),
-        options=options
+    parser.addoption(
+        "--env",
+        action="store",
+        default="local",
+        help="Execution environment: local or remote"
     )
 
-    driver.maximize_window()
+
+# =====================================================
+# SELENIUM DRIVER FIXTURE
+# =====================================================
+
+@pytest.fixture(scope="function")
+def driver(request):
+
+    execution_env = request.config.getoption("--env")
+
+    chrome_options = Options()
+
+    # -----------------------------------------
+    # COMMON OPTIONS
+    # -----------------------------------------
+
+    chrome_options.add_argument("--disable-notifications")
+
+    chrome_options.add_argument("--disable-popup-blocking")
+
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+    chrome_options.add_argument("--no-sandbox")
+
+    chrome_options.add_argument("--disable-gpu")
+
+    chrome_options.add_argument("--window-size=1920,1080")
+
+    chrome_options.add_argument("--disable-extensions")
+
+    chrome_options.add_argument("--remote-allow-origins=*")
+
+    prefs = {
+        "profile.default_content_setting_values.notifications": 2
+    }
+
+    chrome_options.add_experimental_option(
+        "prefs",
+        prefs
+    )
+
+    # =================================================
+    # LOCAL EXECUTION
+    # =================================================
+
+    if execution_env == "local":
+
+        logger.info("Starting LOCAL Chrome browser")
+
+        driver = webdriver.Chrome(
+            service=Service(
+                ChromeDriverManager().install()
+            ),
+            options=chrome_options
+        )
+
+    # =================================================
+    # REMOTE EXECUTION (SELENIUM GRID / DOCKER)
+    # =================================================
+
+    elif execution_env == "remote":
+
+        logger.info("Connecting to Selenium Grid")
+
+        chrome_options.add_argument("--headless=new")
+
+        driver = webdriver.Remote(
+
+            command_executor="http://localhost:4444/wd/hub",
+
+            options=chrome_options
+        )
+
+    else:
+
+        raise ValueError(
+            f"Invalid environment: {execution_env}"
+        )
+
+    logger.info("Browser session started")
 
     yield driver
 
+    logger.info("Closing browser session")
+
     driver.quit()
 
+
+# =====================================================
+# LOGIN FIXTURE
+# =====================================================
 
 @pytest.fixture(scope="function")
 def logged_in_user(driver):
@@ -57,12 +152,21 @@ def logged_in_user(driver):
     login = LoginPage(driver)
 
     with allure.step("Open application"):
+
+        logger.info("Opening application")
+
         home.load(UI_URL)
 
     with allure.step("Navigate to login page"):
+
+        logger.info("Clicking login button")
+
         home.click_login()
 
     with allure.step("Perform login"):
+
+        logger.info("Performing login")
+
         login.login(EMAIL, PASSWORD)
 
     logger.info("Login successful")
@@ -70,9 +174,10 @@ def logged_in_user(driver):
     return driver
 
 
-# ----------------------------
-# Screenshot + Logs on failure
-# ----------------------------
+# =====================================================
+# SCREENSHOT + LOGS ON FAILURE
+# =====================================================
+
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
 
@@ -83,28 +188,46 @@ def pytest_runtest_makereport(item, call):
 
         driver = item.funcargs.get("driver", None)
 
+        # -----------------------------------------
+        # SCREENSHOT
+        # -----------------------------------------
+
         if driver:
-            # create folder
+
             os.makedirs("screenshots", exist_ok=True)
 
-            # unique file name
-            file_name = f"screenshots/{item.name}_{datetime.now().strftime('%H%M%S')}.png"
+            screenshot_name = (
+                f"{item.name}_"
+                f"{datetime.now().strftime('%Y%m%d_%H%M%S')}.png"
+            )
 
-            # save screenshot
-            driver.save_screenshot(file_name)
+            screenshot_path = os.path.join(
+                "screenshots",
+                screenshot_name
+            )
 
-            # attach to allure
+            driver.save_screenshot(screenshot_path)
+
+            logger.error(
+                f"Screenshot captured: {screenshot_path}"
+            )
+
             allure.attach.file(
-                file_name,
+                screenshot_path,
                 name="Failure Screenshot",
                 attachment_type=AttachmentType.PNG
             )
 
-        # attach real logs file (if exists)
+        # -----------------------------------------
+        # LOG FILE ATTACHMENT
+        # -----------------------------------------
+
         log_file = "logs/test.log"
+
         if os.path.exists(log_file):
+
             allure.attach.file(
                 log_file,
-                name="Logs",
+                name="Execution Logs",
                 attachment_type=AttachmentType.TEXT
             )

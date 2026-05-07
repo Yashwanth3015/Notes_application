@@ -1,0 +1,7 @@
+[32mINFO    [0m root:conftest.py:80 Connecting to Selenium Grid...
+[32mINFO    [0m root:conftest.py:93 Browser session started
+[32mINFO    [0m root:conftest.py:114 Opening application
+[32mINFO    [0m root:conftest.py:120 Clicking login button
+[32mINFO    [0m root:conftest.py:126 Performing login
+[32mINFO    [0m root:conftest.py:130 Login successful
+[32mINFO    [0m root:conftest.py:97 Closing browser session

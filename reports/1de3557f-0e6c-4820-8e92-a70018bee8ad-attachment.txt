@@ -1,8 +1,0 @@
-[32mINFO    [0m WDM:logger.py:11 xdist worker is: gw1
-[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
-[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
-[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
-[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
-[32mINFO    [0m root:conftest.py:68 Login successful
-[32mINFO    [0m root:base_page.py:16 Clicking on : ('id', 'category')
-[32mINFO    [0m root:base_page.py:16 Clicking on : ('xpath', "//option[text()='Home']")

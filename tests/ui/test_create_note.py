@@ -18,7 +18,9 @@ def test_create_note_ui(logged_in_user):
 
     notes.create_note(title, description)
 
-    assert notes.is_note_present(title), "Note creation failed!" 
+    assert notes.is_note_present(title), "Note creation failed!"
+    
+    
     """
     TC-07:Validate note appears instantly in UI (validated via is_note_present())
     """
