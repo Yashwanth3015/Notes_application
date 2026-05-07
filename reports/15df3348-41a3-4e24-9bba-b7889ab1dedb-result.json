@@ -1,0 +1,1 @@
+{"name": "test_login_valid_credentials", "status": "passed", "start": 1778160311003, "stop": 1778160336593, "uuid": "49a49927-9fe8-4845-9570-b0204f06035d", "testCaseId": "40d49f79923585f443ff57e99c92fa83", "fullName": "tests.ui.test_login#test_login_valid_credentials", "titlePath": ["tests", "ui", "test_login.py"]}

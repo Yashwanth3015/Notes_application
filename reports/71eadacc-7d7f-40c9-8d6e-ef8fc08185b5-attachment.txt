@@ -1,0 +1,11 @@
+[32mINFO    [0m root:conftest.py:118 Connecting to Selenium Grid
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:conftest.py:156 Opening application
+[32mINFO    [0m root:conftest.py:162 Clicking login button
+[32mINFO    [0m root:conftest.py:168 Performing login
+[32mINFO    [0m root:conftest.py:172 Login successful
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('id', 'category')
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('xpath', "//option[text()='Home']")
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('id', 'category')
+[32mINFO    [0m root:base_page.py:16 Clicking on : ('xpath', "//option[text()='Home']")
+[32mINFO    [0m root:conftest.py:139 Closing browser session

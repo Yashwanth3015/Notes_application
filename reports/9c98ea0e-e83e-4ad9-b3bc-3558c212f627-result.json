@@ -1,0 +1,1 @@
+{"name": "test_login_invalid_credentials", "status": "skipped", "start": 1778135280545, "stop": 1778135280545, "uuid": "989cf1f8-c5a3-40fa-8d26-ebcb7e7317c7", "testCaseId": "74be94a742b7953419e5224604ca682f", "fullName": "tests.negative.test_negative#test_login_invalid_credentials", "titlePath": ["tests", "negative", "test_negative.py"]}

@@ -1,0 +1,1 @@
+{"name": "test_delete_note_api", "status": "passed", "description": "\nTC-09: Validate DELETE /notes works independently\n", "start": 1778146161133, "stop": 1778146170731, "uuid": "51cfdcef-187c-488a-b228-e1e2a2d51d16", "testCaseId": "6369a4fec55e1bab644e4f721ecbceeb", "fullName": "tests.api.test_api_notes#test_delete_note_api", "titlePath": ["tests", "api", "test_api_notes.py"]}

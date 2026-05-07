@@ -1,0 +1,1 @@
+{"name": "test_api_response_time", "status": "passed", "start": 1778156874084, "stop": 1778156883438, "uuid": "f6e97388-eb0f-42e8-98ed-fa5a13c365ad", "testCaseId": "cd5295a9fba669c02a0961b7cefed42c", "fullName": "tests.api.test_performance#test_api_response_time", "titlePath": ["tests", "api", "test_performance.py"]}
