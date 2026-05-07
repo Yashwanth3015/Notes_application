@@ -5097,3 +5097,90 @@
 2026-05-07 19:23:47,060 - INFO - Performing login
 2026-05-07 19:23:47,656 - INFO - Login successful
 2026-05-07 19:23:49,306 - INFO - Closing browser session
+2026-05-07 19:38:23,903 - INFO - Connecting to Selenium Grid
+2026-05-07 19:38:26,110 - INFO - Browser session started
+2026-05-07 19:38:26,111 - INFO - Opening application
+2026-05-07 19:38:44,908 - INFO - Clicking login button
+2026-05-07 19:38:50,938 - INFO - Connecting to Selenium Grid
+2026-05-07 19:38:51,952 - INFO - Browser session started
+2026-05-07 19:38:51,953 - INFO - Opening application
+2026-05-07 19:38:52,433 - INFO - Performing login
+2026-05-07 19:38:53,955 - INFO - Login successful
+2026-05-07 19:39:02,909 - INFO - Clicking login button
+2026-05-07 19:39:08,393 - INFO - Performing login
+2026-05-07 19:39:08,587 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:39:08,927 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-07 19:39:09,465 - INFO - Login successful
+2026-05-07 19:39:15,953 - INFO - Closing browser session
+2026-05-07 19:39:16,082 - INFO - Connecting to Selenium Grid
+2026-05-07 19:39:16,664 - INFO - Browser session started
+2026-05-07 19:39:19,254 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:39:19,707 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-07 19:39:28,987 - INFO - Closing browser session
+2026-05-07 19:39:29,148 - INFO - Connecting to Selenium Grid
+2026-05-07 19:39:29,928 - INFO - Browser session started
+2026-05-07 19:39:29,929 - INFO - Opening application
+2026-05-07 19:39:35,465 - INFO - Clicking login button
+2026-05-07 19:39:37,803 - INFO - Performing login
+2026-05-07 19:39:38,773 - INFO - Login successful
+2026-05-07 19:39:44,489 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:39:44,873 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-07 19:40:08,581 - INFO - Closing browser session
+2026-05-07 19:40:08,694 - INFO - Connecting to Selenium Grid
+2026-05-07 19:40:09,064 - INFO - Browser session started
+2026-05-07 19:40:09,064 - INFO - Opening application
+2026-05-07 19:40:11,868 - INFO - Clicking login button
+2026-05-07 19:40:12,933 - INFO - Closing browser session
+2026-05-07 19:40:13,130 - INFO - Connecting to Selenium Grid
+2026-05-07 19:40:13,749 - INFO - Browser session started
+2026-05-07 19:40:13,749 - INFO - Opening application
+2026-05-07 19:40:14,104 - INFO - Performing login
+2026-05-07 19:40:15,420 - INFO - Login successful
+2026-05-07 19:40:16,632 - INFO - Clicking login button
+2026-05-07 19:40:20,271 - INFO - Performing login
+2026-05-07 19:40:21,400 - INFO - Login successful
+2026-05-07 19:40:22,023 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:40:22,379 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-07 19:40:30,845 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:40:31,169 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-07 19:40:36,073 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:40:36,650 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-07 19:40:41,041 - INFO - Closing browser session
+2026-05-07 19:40:41,191 - INFO - Connecting to Selenium Grid
+2026-05-07 19:40:41,735 - INFO - Browser session started
+2026-05-07 19:40:41,736 - INFO - Opening application
+2026-05-07 19:40:44,981 - INFO - Clicking login button
+2026-05-07 19:40:47,193 - INFO - Performing login
+2026-05-07 19:40:48,359 - INFO - Login successful
+2026-05-07 19:40:53,527 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:40:53,895 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-07 19:40:57,734 - INFO - Closing browser session
+2026-05-07 19:40:59,970 - INFO - Connecting to Selenium Grid
+2026-05-07 19:41:00,600 - INFO - Browser session started
+2026-05-07 19:41:00,600 - INFO - Opening application
+2026-05-07 19:41:03,819 - INFO - Clicking login button
+2026-05-07 19:41:05,984 - INFO - Performing login
+2026-05-07 19:41:07,118 - INFO - Login successful
+2026-05-07 19:41:12,470 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:41:12,805 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-07 19:41:16,435 - INFO - Closing browser session
+2026-05-07 19:41:16,536 - INFO - Connecting to Selenium Grid
+2026-05-07 19:41:17,011 - INFO - Browser session started
+2026-05-07 19:41:17,012 - INFO - Opening application
+2026-05-07 19:41:19,804 - INFO - Clicking login button
+2026-05-07 19:41:21,809 - INFO - Performing login
+2026-05-07 19:41:21,984 - INFO - Closing browser session
+2026-05-07 19:41:23,235 - INFO - Login successful
+2026-05-07 19:41:23,296 - INFO - Connecting to Selenium Grid
+2026-05-07 19:41:24,009 - INFO - Browser session started
+2026-05-07 19:41:24,009 - INFO - Opening application
+2026-05-07 19:41:28,358 - INFO - Clicking on : ('id', 'category')
+2026-05-07 19:41:28,712 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-07 19:41:33,964 - INFO - Clicking login button
+2026-05-07 19:41:37,367 - INFO - Performing login
+2026-05-07 19:41:38,240 - INFO - Login successful
+2026-05-07 19:41:39,698 - INFO - Closing browser session
+2026-05-07 19:41:39,802 - INFO - Connecting to Selenium Grid
+2026-05-07 19:41:40,254 - INFO - Browser session started
+2026-05-07 19:41:51,691 - INFO - Closing browser session
+2026-05-07 19:41:59,515 - INFO - Closing browser session
