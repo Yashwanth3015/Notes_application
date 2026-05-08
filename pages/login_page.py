@@ -1,13 +1,9 @@
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+
+from pages.base_page import BasePage
 
 
-class LoginPage:
-
-    def __init__(self, driver):
-        self.driver = driver
-        self.wait = WebDriverWait(driver, 20)
+class LoginPage(BasePage):
 
     # Locators
     email_input = (
@@ -38,63 +34,30 @@ class LoginPage:
     # Login Method
     def login(self, email, password):
 
-        email_field = self.wait.until(
-            EC.presence_of_element_located(
-                self.email_input
-            )
+        self.enter_text(
+            self.email_input,
+            email
         )
 
-        email_field.clear()
-        email_field.send_keys(email)
-
-        password_field = self.wait.until(
-            EC.presence_of_element_located(
-                self.password_input
-            )
+        self.enter_text(
+            self.password_input,
+            password
         )
 
-        password_field.clear()
-        password_field.send_keys(password)
-
-        login_button = self.wait.until(
-            EC.element_to_be_clickable(
-                self.login_btn
-            )
-        )
-
-        self.driver.execute_script(
-            "arguments[0].click();",
-            login_button
-        )
+        # IMPORTANT
+        # This now uses agentic AI self-healing
+        self.click(self.login_btn)
 
     # Success Validation
     def is_login_successful(self):
 
-        try:
-
-            self.wait.until(
-                EC.visibility_of_element_located(
-                    self.add_note_btn
-                )
-            )
-
-            return True
-
-        except:
-            return False
+        return self.is_visible(
+            self.add_note_btn
+        )
 
     # Error Validation
     def is_error_displayed(self):
 
-        try:
-
-            self.wait.until(
-                EC.visibility_of_element_located(
-                    self.error_message
-                )
-            )
-
-            return True
-
-        except:
-            return False
+        return self.is_visible(
+            self.error_message
+        )

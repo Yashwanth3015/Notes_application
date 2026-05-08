@@ -5184,3 +5184,1112 @@
 2026-05-07 19:41:40,254 - INFO - Browser session started
 2026-05-07 19:41:51,691 - INFO - Closing browser session
 2026-05-07 19:41:59,515 - INFO - Closing browser session
+2026-05-08 09:20:19,777 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:20:19,795 - INFO - ====== WebDriver manager ======
+2026-05-08 09:20:22,522 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:20:23,282 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:20:24,694 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:20:26,039 - INFO - WebDriver version 147.0.7727.117 selected
+2026-05-08 09:20:26,047 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-08 09:20:26,047 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-08 09:20:27,254 - INFO - Driver downloading response is 200
+2026-05-08 09:20:29,843 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:20:31,588 - INFO - Driver has been saved in cache [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117]
+2026-05-08 09:20:35,064 - INFO - Browser session started
+2026-05-08 09:20:35,065 - INFO - Opening application
+2026-05-08 09:20:40,802 - INFO - Clicking login button
+2026-05-08 09:20:43,586 - INFO - Performing login
+2026-05-08 09:20:44,153 - INFO - Login successful
+2026-05-08 09:20:49,999 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:20:50,172 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 09:20:54,539 - INFO - Closing browser session
+2026-05-08 09:20:56,834 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:20:56,834 - INFO - ====== WebDriver manager ======
+2026-05-08 09:20:59,250 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:20:59,771 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:21:00,302 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:21:01,501 - INFO - Browser session started
+2026-05-08 09:21:01,502 - INFO - Opening application
+2026-05-08 09:21:07,574 - INFO - Clicking login button
+2026-05-08 09:21:10,681 - INFO - Performing login
+2026-05-08 09:21:11,234 - INFO - Login successful
+2026-05-08 09:21:17,323 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:21:17,488 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:21:56,256 - INFO - Closing browser session
+2026-05-08 09:21:58,497 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:21:58,497 - INFO - ====== WebDriver manager ======
+2026-05-08 09:22:00,981 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:22:02,029 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:22:02,931 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:22:03,594 - INFO - Browser session started
+2026-05-08 09:22:03,594 - INFO - Opening application
+2026-05-08 09:22:09,039 - INFO - Clicking login button
+2026-05-08 09:22:10,752 - INFO - Performing login
+2026-05-08 09:22:11,430 - INFO - Login successful
+2026-05-08 09:22:17,449 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:22:17,608 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 09:22:56,135 - INFO - Closing browser session
+2026-05-08 09:22:58,358 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:22:58,359 - INFO - ====== WebDriver manager ======
+2026-05-08 09:23:00,910 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:23:01,979 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:23:02,884 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:23:03,615 - INFO - Browser session started
+2026-05-08 09:23:19,737 - INFO - Closing browser session
+2026-05-08 09:23:21,931 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:23:21,932 - INFO - ====== WebDriver manager ======
+2026-05-08 09:23:24,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:23:25,019 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:23:26,206 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:23:27,428 - INFO - Browser session started
+2026-05-08 09:23:27,428 - INFO - Opening application
+2026-05-08 09:23:33,011 - INFO - Clicking login button
+2026-05-08 09:23:36,956 - INFO - Performing login
+2026-05-08 09:23:37,576 - INFO - Login successful
+2026-05-08 09:23:42,120 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:23:42,281 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:24:00,562 - INFO - Closing browser session
+2026-05-08 09:24:02,859 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:24:02,860 - INFO - ====== WebDriver manager ======
+2026-05-08 09:24:05,305 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:24:07,007 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:24:07,554 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:24:08,765 - INFO - Browser session started
+2026-05-08 09:24:08,766 - INFO - Opening application
+2026-05-08 09:24:14,199 - INFO - Clicking login button
+2026-05-08 09:24:15,901 - INFO - Performing login
+2026-05-08 09:24:16,488 - INFO - Login successful
+2026-05-08 09:24:21,029 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:24:21,286 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:24:29,865 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:24:30,085 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:24:34,782 - INFO - Closing browser session
+2026-05-08 09:24:37,047 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:24:37,047 - INFO - ====== WebDriver manager ======
+2026-05-08 09:24:39,480 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:24:40,021 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:24:40,549 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:24:41,306 - INFO - Browser session started
+2026-05-08 09:24:41,307 - INFO - Opening application
+2026-05-08 09:24:48,042 - INFO - Clicking login button
+2026-05-08 09:24:50,111 - INFO - Performing login
+2026-05-08 09:24:50,758 - INFO - Login successful
+2026-05-08 09:24:55,308 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:24:55,591 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 09:24:58,910 - INFO - Closing browser session
+2026-05-08 09:25:05,479 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:25:05,480 - INFO - ====== WebDriver manager ======
+2026-05-08 09:25:07,932 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:25:08,390 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:25:09,031 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:25:10,243 - INFO - Browser session started
+2026-05-08 09:25:10,244 - INFO - Opening application
+2026-05-08 09:25:15,554 - INFO - Clicking login button
+2026-05-08 09:25:17,317 - INFO - Performing login
+2026-05-08 09:25:17,926 - INFO - Login successful
+2026-05-08 09:25:22,574 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:25:22,807 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:25:27,749 - INFO - Closing browser session
+2026-05-08 09:25:29,998 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:25:29,999 - INFO - ====== WebDriver manager ======
+2026-05-08 09:25:32,421 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:25:32,926 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:25:33,632 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:25:34,811 - INFO - Browser session started
+2026-05-08 09:25:34,812 - INFO - Opening application
+2026-05-08 09:25:38,825 - INFO - Clicking login button
+2026-05-08 09:25:41,350 - INFO - Performing login
+2026-05-08 09:25:41,905 - INFO - Login successful
+2026-05-08 09:25:46,535 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:25:46,785 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:25:52,071 - INFO - Closing browser session
+2026-05-08 09:25:54,293 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:25:54,293 - INFO - ====== WebDriver manager ======
+2026-05-08 09:25:56,689 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:25:58,163 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:25:58,659 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:25:59,340 - INFO - Browser session started
+2026-05-08 09:26:07,570 - INFO - Closing browser session
+2026-05-08 09:26:09,783 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:26:09,783 - INFO - ====== WebDriver manager ======
+2026-05-08 09:26:12,181 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:26:14,242 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:26:15,786 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:26:17,074 - INFO - Browser session started
+2026-05-08 09:26:17,075 - INFO - Opening application
+2026-05-08 09:26:20,778 - INFO - Clicking login button
+2026-05-08 09:26:22,359 - INFO - Performing login
+2026-05-08 09:26:23,030 - INFO - Login successful
+2026-05-08 09:26:24,268 - INFO - Closing browser session
+2026-05-08 09:27:26,383 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:27:26,388 - INFO - ====== WebDriver manager ======
+2026-05-08 09:27:28,845 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:27:30,108 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:27:30,602 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:27:31,292 - INFO - Browser session started
+2026-05-08 09:27:59,187 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_092759.png
+2026-05-08 09:27:59,200 - INFO - Closing browser session
+2026-05-08 09:28:03,629 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:28:03,630 - INFO - ====== WebDriver manager ======
+2026-05-08 09:32:32,165 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:32:32,171 - INFO - ====== WebDriver manager ======
+2026-05-08 09:32:35,622 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:32:36,982 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:32:38,910 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:32:39,639 - INFO - Browser session started
+2026-05-08 09:32:49,388 - INFO - Closing browser session
+2026-05-08 09:33:02,991 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:33:02,998 - INFO - ====== WebDriver manager ======
+2026-05-08 09:33:05,380 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:33:05,924 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:33:06,407 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:33:07,678 - INFO - Browser session started
+2026-05-08 09:33:15,242 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_093315.png
+2026-05-08 09:33:15,250 - INFO - Closing browser session
+2026-05-08 09:33:19,525 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:33:19,525 - INFO - ====== WebDriver manager ======
+2026-05-08 09:33:21,817 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:33:22,341 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:33:23,718 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:33:24,407 - INFO - Browser session started
+2026-05-08 09:33:29,542 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_093329.png
+2026-05-08 09:33:29,549 - INFO - Closing browser session
+2026-05-08 09:34:18,179 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:34:18,189 - INFO - ====== WebDriver manager ======
+2026-05-08 09:34:20,636 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:34:21,299 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:34:22,089 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:34:22,780 - INFO - Browser session started
+2026-05-08 09:34:27,426 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_093427.png
+2026-05-08 09:34:27,435 - INFO - Closing browser session
+2026-05-08 09:34:31,611 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:34:31,611 - INFO - ====== WebDriver manager ======
+2026-05-08 09:34:33,932 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:34:34,657 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:34:35,360 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:34:36,571 - INFO - Browser session started
+2026-05-08 09:34:42,589 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_093442.png
+2026-05-08 09:34:42,595 - INFO - Closing browser session
+2026-05-08 09:37:01,141 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:37:01,153 - INFO - ====== WebDriver manager ======
+2026-05-08 09:37:03,962 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:37:05,814 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:37:07,860 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:37:08,578 - INFO - Browser session started
+2026-05-08 09:37:22,194 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_093722.png
+2026-05-08 09:37:22,204 - INFO - Closing browser session
+2026-05-08 09:37:26,424 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:37:26,425 - INFO - ====== WebDriver manager ======
+2026-05-08 09:37:28,804 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:37:30,022 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:37:31,310 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:37:32,520 - INFO - Browser session started
+2026-05-08 09:37:46,035 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_093745.png
+2026-05-08 09:37:46,042 - INFO - Closing browser session
+2026-05-08 09:39:36,503 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:39:36,512 - INFO - ====== WebDriver manager ======
+2026-05-08 09:39:39,356 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:39:40,991 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:39:41,628 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:39:42,876 - INFO - Browser session started
+2026-05-08 09:39:51,618 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:39:51,941 - INFO - Entering text : yashwanth3015
+2026-05-08 09:39:52,172 - INFO - Clicking on : ('xpath', "//button[@type='submitted']")
+2026-05-08 09:40:12,590 - WARNING - Original locator failed. Trying AI self-healing...
+2026-05-08 09:40:12,611 - INFO - Healed locator success : ('xpath', "//button[@type='submit']")
+2026-05-08 09:40:13,725 - INFO - Closing browser session
+2026-05-08 09:40:22,374 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:40:22,386 - INFO - ====== WebDriver manager ======
+2026-05-08 09:40:24,667 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:40:25,197 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:40:25,968 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:40:26,644 - INFO - Browser session started
+2026-05-08 09:40:34,584 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:40:34,898 - INFO - Entering text : yashwanth3015
+2026-05-08 09:40:35,137 - INFO - Clicking on : ('xpath', "//button[@type='submitted']")
+2026-05-08 09:40:55,457 - WARNING - Original locator failed. Trying AI self-healing...
+2026-05-08 09:40:55,472 - INFO - Healed locator success : ('xpath', "//button[@type='submit']")
+2026-05-08 09:40:57,089 - INFO - Closing browser session
+2026-05-08 09:45:04,493 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:45:04,504 - INFO - ====== WebDriver manager ======
+2026-05-08 09:45:07,400 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:45:08,020 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:45:08,605 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:45:09,320 - INFO - Browser session started
+2026-05-08 09:45:09,321 - INFO - Opening application
+2026-05-08 09:45:17,209 - INFO - Clicking login button
+2026-05-08 09:45:22,506 - INFO - Performing login
+2026-05-08 09:45:22,506 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:45:22,827 - INFO - Entering text : yashwanth3015
+2026-05-08 09:45:23,050 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:45:23,262 - INFO - Login successful
+2026-05-08 09:45:29,432 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:45:29,688 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 09:45:33,974 - INFO - Closing browser session
+2026-05-08 09:45:36,197 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:45:36,197 - INFO - ====== WebDriver manager ======
+2026-05-08 09:45:38,610 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:45:39,083 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:45:39,563 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:45:40,286 - INFO - Browser session started
+2026-05-08 09:45:40,287 - INFO - Opening application
+2026-05-08 09:45:43,604 - INFO - Clicking login button
+2026-05-08 09:45:46,572 - INFO - Performing login
+2026-05-08 09:45:46,572 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:45:46,917 - INFO - Entering text : yashwanth3015
+2026-05-08 09:45:47,192 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:45:47,378 - INFO - Login successful
+2026-05-08 09:45:53,089 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:45:53,241 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:46:10,804 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213748')]")
+2026-05-08 09:46:10,822 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:46:24,702 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213748')]")
+2026-05-08 09:46:24,738 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:46:38,319 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213748')]")
+2026-05-08 09:46:38,333 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:46:51,614 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213748')]")
+2026-05-08 09:46:51,634 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:47:07,059 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213748')]")
+2026-05-08 09:47:07,075 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:47:18,513 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213748')]")
+2026-05-08 09:47:18,530 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:47:18,837 - ERROR - Screenshot captured: screenshots\test_api_to_ui_delete_sync_20260508_094718.png
+2026-05-08 09:47:18,847 - INFO - Closing browser session
+2026-05-08 09:47:23,105 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:47:23,106 - INFO - ====== WebDriver manager ======
+2026-05-08 09:47:25,606 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:47:26,145 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:47:26,687 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:47:27,893 - INFO - Browser session started
+2026-05-08 09:47:27,894 - INFO - Opening application
+2026-05-08 09:47:33,938 - INFO - Clicking login button
+2026-05-08 09:47:37,062 - INFO - Performing login
+2026-05-08 09:47:37,062 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:47:37,396 - INFO - Entering text : yashwanth3015
+2026-05-08 09:47:37,587 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:47:37,740 - INFO - Login successful
+2026-05-08 09:47:43,895 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:47:44,061 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:48:01,705 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213859')]")
+2026-05-08 09:48:01,721 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:48:15,598 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213859')]")
+2026-05-08 09:48:15,616 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:48:28,798 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213859')]")
+2026-05-08 09:48:28,816 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:48:41,521 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213859')]")
+2026-05-08 09:48:41,534 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:48:55,326 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213859')]")
+2026-05-08 09:48:55,343 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:49:06,749 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213859')]")
+2026-05-08 09:49:06,765 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:49:06,872 - ERROR - Screenshot captured: screenshots\test_api_to_ui_delete_sync_20260508_094906.png
+2026-05-08 09:49:06,888 - INFO - Closing browser session
+2026-05-08 09:49:11,160 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:49:11,160 - INFO - ====== WebDriver manager ======
+2026-05-08 09:49:13,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:49:14,452 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:49:15,483 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:49:16,186 - INFO - Browser session started
+2026-05-08 09:49:16,186 - INFO - Opening application
+2026-05-08 09:49:19,915 - INFO - Clicking login button
+2026-05-08 09:49:22,454 - INFO - Performing login
+2026-05-08 09:49:22,454 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:49:22,818 - INFO - Entering text : yashwanth3015
+2026-05-08 09:49:23,032 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:49:23,241 - INFO - Login successful
+2026-05-08 09:49:29,160 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:49:29,335 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:49:46,783 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213964')]")
+2026-05-08 09:49:46,800 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:50:00,668 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213964')]")
+2026-05-08 09:50:00,687 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:50:14,051 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213964')]")
+2026-05-08 09:50:14,064 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:50:27,614 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213964')]")
+2026-05-08 09:50:27,629 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:50:40,661 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213964')]")
+2026-05-08 09:50:40,678 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:50:52,088 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Delete_1778213964')]")
+2026-05-08 09:50:52,104 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:50:52,227 - ERROR - Screenshot captured: screenshots\test_api_to_ui_delete_sync_20260508_095052.png
+2026-05-08 09:50:52,242 - INFO - Closing browser session
+2026-05-08 09:50:54,532 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:50:54,532 - INFO - ====== WebDriver manager ======
+2026-05-08 09:50:56,781 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:50:57,507 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:50:58,032 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:50:59,235 - INFO - Browser session started
+2026-05-08 09:50:59,236 - INFO - Opening application
+2026-05-08 09:51:03,231 - INFO - Clicking login button
+2026-05-08 09:51:05,003 - INFO - Performing login
+2026-05-08 09:51:05,003 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:51:05,424 - INFO - Entering text : yashwanth3015
+2026-05-08 09:51:05,690 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:51:05,884 - INFO - Login successful
+2026-05-08 09:51:11,716 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:51:11,881 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 09:51:29,736 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'E2E_1778214067')]")
+2026-05-08 09:51:29,753 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:51:45,982 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'E2E_1778214067')]")
+2026-05-08 09:51:46,000 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:51:59,576 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'E2E_1778214067')]")
+2026-05-08 09:51:59,591 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:52:06,855 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'E2E_1778214067')]")
+2026-05-08 09:52:06,959 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'E2E_1778214067')]")
+2026-05-08 09:52:06,969 - INFO - Closing browser session
+2026-05-08 09:52:09,024 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:52:09,025 - INFO - ====== WebDriver manager ======
+2026-05-08 09:52:11,409 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:52:12,019 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:52:12,672 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:52:13,874 - INFO - Browser session started
+2026-05-08 09:52:20,782 - INFO - Entering text : wrong@mail.com
+2026-05-08 09:52:21,104 - INFO - Entering text : wrong123
+2026-05-08 09:52:21,341 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:52:31,938 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'Incorrect email address or password')]")
+2026-05-08 09:52:31,993 - INFO - Healed locator found : ('tag name', 'button')
+2026-05-08 09:52:31,994 - INFO - Closing browser session
+2026-05-08 09:52:34,234 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:52:34,234 - INFO - ====== WebDriver manager ======
+2026-05-08 09:52:36,576 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:52:37,248 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:52:37,757 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:52:38,952 - INFO - Browser session started
+2026-05-08 09:52:38,953 - INFO - Opening application
+2026-05-08 09:52:59,222 - INFO - Clicking login button
+2026-05-08 09:53:03,572 - INFO - Performing login
+2026-05-08 09:53:03,573 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:53:03,907 - INFO - Entering text : yashwanth3015
+2026-05-08 09:53:04,168 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:53:04,379 - INFO - Login successful
+2026-05-08 09:53:08,940 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:53:09,097 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:53:22,739 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'INVALID_TEST_TITLE')]")
+2026-05-08 09:53:22,757 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:53:22,874 - ERROR - Screenshot captured: screenshots\test_create_note_empty_title_20260508_095322.png
+2026-05-08 09:53:22,881 - INFO - Closing browser session
+2026-05-08 09:53:27,116 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:53:27,117 - INFO - ====== WebDriver manager ======
+2026-05-08 09:53:29,387 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:53:30,420 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:53:31,621 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:53:32,830 - INFO - Browser session started
+2026-05-08 09:53:32,831 - INFO - Opening application
+2026-05-08 09:53:38,903 - INFO - Clicking login button
+2026-05-08 09:53:41,189 - INFO - Performing login
+2026-05-08 09:53:41,189 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:53:41,503 - INFO - Entering text : yashwanth3015
+2026-05-08 09:53:41,776 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:53:41,990 - INFO - Login successful
+2026-05-08 09:53:46,564 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:53:46,757 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:54:00,361 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'INVALID_TEST_TITLE')]")
+2026-05-08 09:54:00,376 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:54:00,481 - ERROR - Screenshot captured: screenshots\test_create_note_empty_title_20260508_095400.png
+2026-05-08 09:54:00,486 - INFO - Closing browser session
+2026-05-08 09:54:04,728 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:54:04,729 - INFO - ====== WebDriver manager ======
+2026-05-08 09:54:07,124 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:54:08,534 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:54:10,360 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:54:11,059 - INFO - Browser session started
+2026-05-08 09:54:11,060 - INFO - Opening application
+2026-05-08 09:54:19,466 - INFO - Clicking login button
+2026-05-08 09:54:22,677 - INFO - Performing login
+2026-05-08 09:54:22,677 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:54:22,968 - INFO - Entering text : yashwanth3015
+2026-05-08 09:54:23,150 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:54:23,420 - INFO - Login successful
+2026-05-08 09:54:27,843 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:54:28,005 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:54:41,617 - WARNING - Trying to heal locator : ('xpath', "//*[contains(text(),'INVALID_TEST_TITLE')]")
+2026-05-08 09:54:41,633 - INFO - Healed locator found : ('xpath', "//button[@type='submit']")
+2026-05-08 09:54:41,767 - ERROR - Screenshot captured: screenshots\test_create_note_empty_title_20260508_095441.png
+2026-05-08 09:54:41,774 - INFO - Closing browser session
+2026-05-08 09:54:44,015 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:54:44,015 - INFO - ====== WebDriver manager ======
+2026-05-08 09:54:46,429 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:57:00,540 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:57:00,548 - INFO - ====== WebDriver manager ======
+2026-05-08 09:57:03,306 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:57:03,853 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:57:05,200 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:57:06,403 - INFO - Browser session started
+2026-05-08 09:57:06,404 - INFO - Opening application
+2026-05-08 09:57:14,447 - INFO - Clicking login button
+2026-05-08 09:57:16,525 - INFO - Performing login
+2026-05-08 09:57:16,525 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:57:16,887 - INFO - Entering text : yashwanth3015
+2026-05-08 09:57:17,073 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:57:17,301 - INFO - Login successful
+2026-05-08 09:57:22,939 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:57:23,099 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 09:57:27,379 - INFO - Closing browser session
+2026-05-08 09:57:29,615 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:57:29,616 - INFO - ====== WebDriver manager ======
+2026-05-08 09:57:31,998 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:57:32,471 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:57:33,701 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:57:34,983 - INFO - Browser session started
+2026-05-08 09:57:34,984 - INFO - Opening application
+2026-05-08 09:57:41,261 - INFO - Clicking login button
+2026-05-08 09:57:42,871 - INFO - Performing login
+2026-05-08 09:57:42,871 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:57:43,307 - INFO - Entering text : yashwanth3015
+2026-05-08 09:57:43,558 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:57:43,780 - INFO - Login successful
+2026-05-08 09:57:49,752 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:57:49,914 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 09:58:20,007 - INFO - Closing browser session
+2026-05-08 09:58:22,266 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:58:22,266 - INFO - ====== WebDriver manager ======
+2026-05-08 09:58:24,654 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:58:25,931 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:58:26,940 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:58:27,646 - INFO - Browser session started
+2026-05-08 09:58:27,646 - INFO - Opening application
+2026-05-08 09:58:34,825 - INFO - Clicking login button
+2026-05-08 09:58:39,034 - INFO - Performing login
+2026-05-08 09:58:39,034 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 09:58:39,297 - INFO - Entering text : yashwanth3015
+2026-05-08 09:58:39,520 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:58:39,717 - INFO - Login successful
+2026-05-08 09:58:45,630 - INFO - Clicking on : ('id', 'category')
+2026-05-08 09:58:45,787 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 09:59:14,686 - INFO - Closing browser session
+2026-05-08 09:59:17,000 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:59:17,001 - INFO - ====== WebDriver manager ======
+2026-05-08 09:59:19,311 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:59:20,122 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:59:20,965 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:59:22,248 - INFO - Browser session started
+2026-05-08 09:59:46,126 - INFO - Entering text : wrong@mail.com
+2026-05-08 09:59:46,347 - INFO - Entering text : wrong123
+2026-05-08 09:59:46,602 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 09:59:47,437 - INFO - Closing browser session
+2026-05-08 09:59:49,643 - INFO - Starting LOCAL Chrome browser
+2026-05-08 09:59:49,643 - INFO - ====== WebDriver manager ======
+2026-05-08 09:59:52,015 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:59:52,866 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 09:59:53,354 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 09:59:54,549 - INFO - Browser session started
+2026-05-08 09:59:54,550 - INFO - Opening application
+2026-05-08 10:00:00,161 - INFO - Clicking login button
+2026-05-08 10:00:04,348 - INFO - Performing login
+2026-05-08 10:00:04,349 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:00:04,610 - INFO - Entering text : yashwanth3015
+2026-05-08 10:00:04,835 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:00:05,017 - INFO - Login successful
+2026-05-08 10:00:09,487 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:00:09,702 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:00:23,274 - INFO - Closing browser session
+2026-05-08 10:00:25,527 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:00:25,527 - INFO - ====== WebDriver manager ======
+2026-05-08 10:00:27,884 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:00:28,814 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:00:29,304 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:00:30,488 - INFO - Browser session started
+2026-05-08 10:00:30,489 - INFO - Opening application
+2026-05-08 10:00:36,423 - INFO - Clicking login button
+2026-05-08 10:00:39,174 - INFO - Performing login
+2026-05-08 10:00:39,174 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:00:39,489 - INFO - Entering text : yashwanth3015
+2026-05-08 10:00:39,746 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:00:39,898 - INFO - Login successful
+2026-05-08 10:00:44,416 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:00:44,608 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:00:52,235 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:00:52,394 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:00:57,404 - INFO - Closing browser session
+2026-05-08 10:00:59,645 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:00:59,646 - INFO - ====== WebDriver manager ======
+2026-05-08 10:01:02,043 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:01:02,497 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:01:02,999 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:01:03,709 - INFO - Browser session started
+2026-05-08 10:01:03,710 - INFO - Opening application
+2026-05-08 10:01:08,512 - INFO - Clicking login button
+2026-05-08 10:01:11,345 - INFO - Performing login
+2026-05-08 10:01:11,345 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:01:11,658 - INFO - Entering text : yashwanth3015
+2026-05-08 10:01:11,839 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:01:12,042 - INFO - Login successful
+2026-05-08 10:01:16,557 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:01:16,756 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:01:20,374 - INFO - Closing browser session
+2026-05-08 10:01:27,838 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:01:27,838 - INFO - ====== WebDriver manager ======
+2026-05-08 10:01:30,114 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:01:30,620 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:01:32,754 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:01:33,972 - INFO - Browser session started
+2026-05-08 10:01:33,973 - INFO - Opening application
+2026-05-08 10:01:37,210 - INFO - Clicking login button
+2026-05-08 10:01:38,784 - INFO - Performing login
+2026-05-08 10:01:38,784 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:01:39,193 - INFO - Entering text : yashwanth3015
+2026-05-08 10:01:39,408 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:01:39,575 - INFO - Login successful
+2026-05-08 10:01:44,106 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:01:44,308 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:01:49,135 - INFO - Closing browser session
+2026-05-08 10:01:51,322 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:01:51,322 - INFO - ====== WebDriver manager ======
+2026-05-08 10:01:53,778 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:01:54,713 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:01:55,837 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:01:57,011 - INFO - Browser session started
+2026-05-08 10:01:57,011 - INFO - Opening application
+2026-05-08 10:02:03,454 - INFO - Clicking login button
+2026-05-08 10:02:05,481 - INFO - Performing login
+2026-05-08 10:02:05,481 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:02:05,940 - INFO - Entering text : yashwanth3015
+2026-05-08 10:02:06,144 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:02:06,405 - INFO - Login successful
+2026-05-08 10:02:10,972 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:02:11,266 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:02:16,522 - INFO - Closing browser session
+2026-05-08 10:02:18,723 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:02:18,723 - INFO - ====== WebDriver manager ======
+2026-05-08 10:02:21,159 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:02:21,966 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:02:22,518 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:02:23,713 - INFO - Browser session started
+2026-05-08 10:02:33,313 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:02:33,653 - INFO - Entering text : yashwanth3015
+2026-05-08 10:02:33,873 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:02:35,726 - INFO - Closing browser session
+2026-05-08 10:02:37,933 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:02:37,933 - INFO - ====== WebDriver manager ======
+2026-05-08 10:02:40,262 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:02:41,831 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:02:43,407 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:02:44,628 - INFO - Browser session started
+2026-05-08 10:02:44,629 - INFO - Opening application
+2026-05-08 10:02:48,921 - INFO - Clicking login button
+2026-05-08 10:02:50,352 - INFO - Performing login
+2026-05-08 10:02:50,352 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:02:50,729 - INFO - Entering text : yashwanth3015
+2026-05-08 10:02:50,995 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:02:51,216 - INFO - Login successful
+2026-05-08 10:02:52,443 - INFO - Closing browser session
+2026-05-08 10:03:09,529 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:03:09,537 - INFO - ====== WebDriver manager ======
+2026-05-08 10:03:11,849 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:03:12,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:03:13,231 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:03:13,919 - INFO - Browser session started
+2026-05-08 10:03:22,463 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_100322.png
+2026-05-08 10:03:22,473 - INFO - Closing browser session
+2026-05-08 10:03:26,700 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:03:26,701 - INFO - ====== WebDriver manager ======
+2026-05-08 10:03:29,026 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:03:29,707 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:03:30,273 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:03:31,562 - INFO - Browser session started
+2026-05-08 10:03:41,456 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:03:41,816 - INFO - Entering text : yashwanth3015
+2026-05-08 10:03:42,082 - INFO - Clicking on : ('xpath', "//button[@type='submitted']")
+2026-05-08 10:04:02,432 - WARNING - Original locator failed. Trying AI self-healing...
+2026-05-08 10:04:02,454 - INFO - Healed locator success : ('xpath', "//button[@type='submit']")
+2026-05-08 10:04:04,091 - INFO - Closing browser session
+2026-05-08 10:07:58,905 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:07:58,915 - INFO - xdist worker is: gw1
+2026-05-08 10:07:58,915 - INFO - ====== WebDriver manager ======
+2026-05-08 10:08:01,861 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:04,106 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:06,312 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:10,865 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:08:10,872 - INFO - xdist worker is: gw0
+2026-05-08 10:08:10,873 - INFO - ====== WebDriver manager ======
+2026-05-08 10:08:13,370 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:16,148 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:16,875 - INFO - WebDriver version 147.0.7727.117 selected
+2026-05-08 10:08:16,881 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-08 10:08:16,881 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-08 10:08:16,939 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:17,941 - INFO - Driver downloading response is 200
+2026-05-08 10:08:20,944 - INFO - WebDriver version 147.0.7727.117 selected
+2026-05-08 10:08:20,950 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-08 10:08:20,950 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-08 10:08:21,904 - INFO - Driver downloading response is 200
+2026-05-08 10:08:22,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:24,284 - INFO - Driver has been saved in cache [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117]
+2026-05-08 10:08:28,008 - INFO - Browser session started
+2026-05-08 10:08:40,671 - INFO - Entering text : wrong@mail.com
+2026-05-08 10:08:41,012 - INFO - Entering text : wrong123
+2026-05-08 10:08:41,026 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:41,182 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:08:41,914 - INFO - Closing browser session
+2026-05-08 10:08:42,907 - INFO - Driver has been saved in cache [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117]
+2026-05-08 10:08:44,173 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:08:44,174 - INFO - xdist worker is: gw0
+2026-05-08 10:08:44,174 - INFO - ====== WebDriver manager ======
+2026-05-08 10:08:46,354 - INFO - Browser session started
+2026-05-08 10:08:46,355 - INFO - Opening application
+2026-05-08 10:08:47,381 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:48,537 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:08:49,710 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:08:50,868 - INFO - Browser session started
+2026-05-08 10:08:50,870 - INFO - Opening application
+2026-05-08 10:08:51,239 - INFO - Clicking login button
+2026-05-08 10:08:53,154 - INFO - Performing login
+2026-05-08 10:08:53,154 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:08:53,975 - INFO - Entering text : yashwanth3015
+2026-05-08 10:08:54,303 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:08:54,538 - INFO - Login successful
+2026-05-08 10:08:55,782 - INFO - Clicking login button
+2026-05-08 10:08:58,283 - INFO - Performing login
+2026-05-08 10:08:58,284 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:08:58,611 - INFO - Entering text : yashwanth3015
+2026-05-08 10:08:58,838 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:08:59,103 - INFO - Login successful
+2026-05-08 10:09:01,209 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:09:01,409 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:09:03,603 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:09:03,794 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:09:06,198 - INFO - Closing browser session
+2026-05-08 10:09:08,619 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:09:08,619 - INFO - xdist worker is: gw1
+2026-05-08 10:09:08,619 - INFO - ====== WebDriver manager ======
+2026-05-08 10:09:11,120 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:09:12,232 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:09:13,165 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:09:14,252 - INFO - Browser session started
+2026-05-08 10:09:14,253 - INFO - Opening application
+2026-05-08 10:09:17,432 - INFO - Closing browser session
+2026-05-08 10:09:18,897 - INFO - Clicking login button
+2026-05-08 10:09:19,807 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:09:19,808 - INFO - xdist worker is: gw0
+2026-05-08 10:09:19,808 - INFO - ====== WebDriver manager ======
+2026-05-08 10:09:22,680 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:09:22,811 - INFO - Performing login
+2026-05-08 10:09:22,811 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:09:23,142 - INFO - Entering text : yashwanth3015
+2026-05-08 10:09:23,467 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:09:23,698 - INFO - Login successful
+2026-05-08 10:09:24,036 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:09:25,601 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:09:26,584 - INFO - Browser session started
+2026-05-08 10:09:26,584 - INFO - Opening application
+2026-05-08 10:09:30,711 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:09:30,951 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:09:32,626 - INFO - Clicking login button
+2026-05-08 10:09:35,468 - INFO - Performing login
+2026-05-08 10:09:35,468 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:09:35,921 - INFO - Entering text : yashwanth3015
+2026-05-08 10:09:36,215 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:09:36,576 - INFO - Login successful
+2026-05-08 10:09:41,051 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:09:41,405 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:09:49,209 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:09:49,360 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:09:54,363 - INFO - Closing browser session
+2026-05-08 10:09:56,733 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:09:56,733 - INFO - xdist worker is: gw0
+2026-05-08 10:09:56,733 - INFO - ====== WebDriver manager ======
+2026-05-08 10:09:59,317 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:10:00,185 - INFO - Closing browser session
+2026-05-08 10:10:00,187 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:10:01,130 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:10:02,455 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:10:02,455 - INFO - xdist worker is: gw1
+2026-05-08 10:10:02,455 - INFO - ====== WebDriver manager ======
+2026-05-08 10:10:02,766 - INFO - Browser session started
+2026-05-08 10:10:02,767 - INFO - Opening application
+2026-05-08 10:10:06,335 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:10:07,654 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:10:08,231 - INFO - Clicking login button
+2026-05-08 10:10:08,637 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:10:09,697 - INFO - Browser session started
+2026-05-08 10:10:09,698 - INFO - Opening application
+2026-05-08 10:10:10,916 - INFO - Performing login
+2026-05-08 10:10:10,916 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:10:11,375 - INFO - Entering text : yashwanth3015
+2026-05-08 10:10:11,673 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:10:11,971 - INFO - Login successful
+2026-05-08 10:10:12,736 - INFO - Clicking login button
+2026-05-08 10:10:15,110 - INFO - Performing login
+2026-05-08 10:10:15,110 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:10:15,601 - INFO - Entering text : yashwanth3015
+2026-05-08 10:10:15,905 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:10:16,147 - INFO - Login successful
+2026-05-08 10:10:16,676 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:10:17,084 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:10:21,146 - INFO - Closing browser session
+2026-05-08 10:10:22,931 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:10:23,187 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:10:28,381 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:10:28,382 - INFO - xdist worker is: gw0
+2026-05-08 10:10:28,383 - INFO - ====== WebDriver manager ======
+2026-05-08 10:10:31,457 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:10:33,341 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:10:34,894 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:10:35,924 - INFO - Browser session started
+2026-05-08 10:10:35,925 - INFO - Opening application
+2026-05-08 10:10:44,569 - INFO - Clicking login button
+2026-05-08 10:10:47,459 - INFO - Performing login
+2026-05-08 10:10:47,460 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:10:48,201 - INFO - Entering text : yashwanth3015
+2026-05-08 10:10:48,597 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:10:49,177 - INFO - Login successful
+2026-05-08 10:10:53,934 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:10:54,234 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:10:54,836 - INFO - Closing browser session
+2026-05-08 10:10:58,677 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:10:58,678 - INFO - xdist worker is: gw1
+2026-05-08 10:10:58,678 - INFO - ====== WebDriver manager ======
+2026-05-08 10:10:58,741 - INFO - Closing browser session
+2026-05-08 10:11:00,957 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:11:00,957 - INFO - xdist worker is: gw0
+2026-05-08 10:11:00,957 - INFO - ====== WebDriver manager ======
+2026-05-08 10:11:01,068 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:11:01,658 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:11:02,871 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:11:03,518 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:11:03,844 - INFO - Browser session started
+2026-05-08 10:11:05,389 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:11:06,676 - INFO - Driver [C:\Users\yashw\.wdm\gw0\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:11:07,688 - INFO - Browser session started
+2026-05-08 10:11:07,689 - INFO - Opening application
+2026-05-08 10:11:11,773 - INFO - Clicking login button
+2026-05-08 10:11:12,652 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:11:13,337 - INFO - Entering text : yashwanth3015
+2026-05-08 10:11:13,806 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:11:14,570 - INFO - Performing login
+2026-05-08 10:11:14,570 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:11:14,927 - INFO - Entering text : yashwanth3015
+2026-05-08 10:11:15,124 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:11:15,330 - INFO - Login successful
+2026-05-08 10:11:15,724 - INFO - Closing browser session
+2026-05-08 10:11:18,056 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:11:18,057 - INFO - xdist worker is: gw1
+2026-05-08 10:11:18,057 - INFO - ====== WebDriver manager ======
+2026-05-08 10:11:19,865 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:11:20,083 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:11:20,699 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:11:22,092 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:11:23,233 - INFO - Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:11:24,362 - INFO - Browser session started
+2026-05-08 10:11:24,363 - INFO - Opening application
+2026-05-08 10:11:25,344 - INFO - Closing browser session
+2026-05-08 10:11:30,295 - INFO - Clicking login button
+2026-05-08 10:11:32,258 - INFO - Performing login
+2026-05-08 10:11:32,258 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:11:32,640 - INFO - Entering text : yashwanth3015
+2026-05-08 10:11:32,933 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:11:33,245 - INFO - Login successful
+2026-05-08 10:11:35,048 - INFO - Closing browser session
+2026-05-08 10:13:17,974 - INFO - Connecting to Selenium Grid
+2026-05-08 10:13:20,880 - INFO - Browser session started
+2026-05-08 10:13:20,881 - INFO - Opening application
+2026-05-08 10:13:28,455 - INFO - Connecting to Selenium Grid
+2026-05-08 10:13:29,659 - INFO - Browser session started
+2026-05-08 10:13:29,992 - INFO - Clicking login button
+2026-05-08 10:13:36,376 - INFO - Performing login
+2026-05-08 10:13:36,376 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:13:36,975 - INFO - Entering text : yashwanth3015
+2026-05-08 10:13:37,361 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:13:37,737 - INFO - Login successful
+2026-05-08 10:13:45,307 - INFO - Entering text : wrong@mail.com
+2026-05-08 10:13:45,897 - INFO - Entering text : wrong123
+2026-05-08 10:13:46,370 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:13:46,429 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:13:46,781 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:13:48,038 - INFO - Closing browser session
+2026-05-08 10:13:48,193 - INFO - Connecting to Selenium Grid
+2026-05-08 10:13:48,775 - INFO - Browser session started
+2026-05-08 10:13:48,776 - INFO - Opening application
+2026-05-08 10:13:52,281 - INFO - Closing browser session
+2026-05-08 10:13:52,395 - INFO - Connecting to Selenium Grid
+2026-05-08 10:13:52,773 - INFO - Browser session started
+2026-05-08 10:13:52,774 - INFO - Opening application
+2026-05-08 10:14:01,568 - INFO - Clicking login button
+2026-05-08 10:14:03,826 - INFO - Clicking login button
+2026-05-08 10:14:08,064 - INFO - Performing login
+2026-05-08 10:14:08,065 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:14:08,667 - INFO - Entering text : yashwanth3015
+2026-05-08 10:14:09,199 - INFO - Performing login
+2026-05-08 10:14:09,199 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:14:09,306 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:14:09,661 - INFO - Login successful
+2026-05-08 10:14:09,733 - INFO - Entering text : yashwanth3015
+2026-05-08 10:14:10,219 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:14:10,593 - INFO - Login successful
+2026-05-08 10:14:14,808 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:14:15,229 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:14:18,042 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:14:18,480 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:14:28,914 - INFO - Closing browser session
+2026-05-08 10:14:29,027 - INFO - Connecting to Selenium Grid
+2026-05-08 10:14:29,476 - INFO - Browser session started
+2026-05-08 10:14:29,476 - INFO - Opening application
+2026-05-08 10:14:47,637 - INFO - Clicking login button
+2026-05-08 10:14:52,554 - INFO - Performing login
+2026-05-08 10:14:52,554 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:14:53,076 - INFO - Entering text : yashwanth3015
+2026-05-08 10:14:53,454 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:14:53,888 - INFO - Login successful
+2026-05-08 10:14:57,830 - INFO - Closing browser session
+2026-05-08 10:14:57,937 - INFO - Connecting to Selenium Grid
+2026-05-08 10:14:58,360 - INFO - Browser session started
+2026-05-08 10:14:58,361 - INFO - Opening application
+2026-05-08 10:14:58,898 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:14:59,232 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:15:09,812 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:15:10,182 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:15:12,663 - INFO - Clicking login button
+2026-05-08 10:15:17,592 - INFO - Closing browser session
+2026-05-08 10:15:17,715 - INFO - Connecting to Selenium Grid
+2026-05-08 10:15:18,232 - INFO - Browser session started
+2026-05-08 10:15:18,233 - INFO - Opening application
+2026-05-08 10:15:18,354 - INFO - Performing login
+2026-05-08 10:15:18,354 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:15:18,813 - INFO - Entering text : yashwanth3015
+2026-05-08 10:15:19,327 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:15:19,747 - INFO - Login successful
+2026-05-08 10:15:28,168 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:15:28,494 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:15:32,211 - INFO - Clicking login button
+2026-05-08 10:15:38,381 - INFO - Performing login
+2026-05-08 10:15:38,382 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:15:39,062 - INFO - Entering text : yashwanth3015
+2026-05-08 10:15:39,568 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:15:40,013 - INFO - Login successful
+2026-05-08 10:15:45,005 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:15:45,371 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:15:53,768 - INFO - Closing browser session
+2026-05-08 10:15:58,628 - INFO - Connecting to Selenium Grid
+2026-05-08 10:15:59,009 - INFO - Browser session started
+2026-05-08 10:15:59,010 - INFO - Opening application
+2026-05-08 10:16:03,405 - INFO - Closing browser session
+2026-05-08 10:16:05,460 - INFO - Connecting to Selenium Grid
+2026-05-08 10:16:06,125 - INFO - Browser session started
+2026-05-08 10:16:08,687 - INFO - Clicking login button
+2026-05-08 10:16:16,223 - INFO - Performing login
+2026-05-08 10:16:16,223 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:16:16,660 - INFO - Entering text : yashwanth3015
+2026-05-08 10:16:17,185 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:16:17,534 - INFO - Login successful
+2026-05-08 10:16:22,632 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:16:22,940 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:16:28,714 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:16:29,119 - INFO - Entering text : yashwanth3015
+2026-05-08 10:16:29,654 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:16:31,785 - INFO - Closing browser session
+2026-05-08 10:16:31,937 - INFO - Connecting to Selenium Grid
+2026-05-08 10:16:32,031 - INFO - Closing browser session
+2026-05-08 10:16:32,192 - INFO - Connecting to Selenium Grid
+2026-05-08 10:16:32,631 - INFO - Browser session started
+2026-05-08 10:16:32,631 - INFO - Opening application
+2026-05-08 10:16:32,766 - INFO - Browser session started
+2026-05-08 10:16:32,767 - INFO - Opening application
+2026-05-08 10:16:43,365 - INFO - Clicking login button
+2026-05-08 10:16:43,632 - INFO - Clicking login button
+2026-05-08 10:16:48,772 - INFO - Performing login
+2026-05-08 10:16:48,772 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:16:49,226 - INFO - Entering text : yashwanth3015
+2026-05-08 10:16:49,652 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:16:50,025 - INFO - Login successful
+2026-05-08 10:16:50,525 - INFO - Performing login
+2026-05-08 10:16:50,525 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:16:51,097 - INFO - Entering text : yashwanth3015
+2026-05-08 10:16:51,532 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:16:51,813 - INFO - Login successful
+2026-05-08 10:16:53,416 - INFO - Closing browser session
+2026-05-08 10:16:55,470 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:16:55,880 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:17:11,919 - ERROR - Screenshot captured: screenshots\test_note_appears_instantly_ui_20260508_101711.png
+2026-05-08 10:17:11,929 - INFO - Closing browser session
+2026-05-08 10:17:14,041 - INFO - Connecting to Selenium Grid
+2026-05-08 10:17:14,503 - INFO - Browser session started
+2026-05-08 10:17:14,503 - INFO - Opening application
+2026-05-08 10:17:38,815 - INFO - Clicking login button
+2026-05-08 10:17:43,597 - INFO - Performing login
+2026-05-08 10:17:43,597 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:17:44,123 - INFO - Entering text : yashwanth3015
+2026-05-08 10:17:44,691 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:17:45,074 - INFO - Login successful
+2026-05-08 10:17:50,296 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:17:50,663 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:17:56,579 - INFO - Closing browser session
+2026-05-08 10:19:49,231 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:19:49,256 - INFO - ====== WebDriver manager ======
+2026-05-08 10:19:53,006 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:19:55,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:19:58,772 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:20:00,326 - INFO - Browser session started
+2026-05-08 10:20:00,327 - INFO - Opening application
+2026-05-08 10:20:22,089 - INFO - Clicking login button
+2026-05-08 10:20:29,235 - INFO - Performing login
+2026-05-08 10:20:29,235 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:20:29,624 - INFO - Entering text : yashwanth3015
+2026-05-08 10:20:29,925 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:20:30,120 - INFO - Login successful
+2026-05-08 10:20:42,245 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:20:42,491 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:20:49,578 - INFO - Closing browser session
+2026-05-08 10:20:51,860 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:20:51,861 - INFO - ====== WebDriver manager ======
+2026-05-08 10:20:54,940 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:20:58,404 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:21:02,633 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:21:04,053 - INFO - Browser session started
+2026-05-08 10:21:04,054 - INFO - Opening application
+2026-05-08 10:21:20,606 - INFO - Clicking login button
+2026-05-08 10:21:23,015 - INFO - Performing login
+2026-05-08 10:21:23,016 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:21:23,589 - INFO - Entering text : yashwanth3015
+2026-05-08 10:21:23,995 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:21:24,287 - INFO - Login successful
+2026-05-08 10:21:31,761 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:21:31,969 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:22:06,636 - INFO - Closing browser session
+2026-05-08 10:22:08,918 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:22:08,918 - INFO - ====== WebDriver manager ======
+2026-05-08 10:22:12,482 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:22:14,652 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:22:17,074 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:22:18,623 - INFO - Browser session started
+2026-05-08 10:22:18,624 - INFO - Opening application
+2026-05-08 10:22:50,831 - INFO - Clicking login button
+2026-05-08 10:22:56,147 - INFO - Performing login
+2026-05-08 10:22:56,148 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:22:56,532 - INFO - Entering text : yashwanth3015
+2026-05-08 10:22:56,809 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:22:57,046 - INFO - Login successful
+2026-05-08 10:23:04,074 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:23:04,326 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:23:42,273 - INFO - Closing browser session
+2026-05-08 10:23:44,694 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:23:44,694 - INFO - ====== WebDriver manager ======
+2026-05-08 10:23:48,941 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:23:50,726 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:23:53,476 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:23:54,834 - INFO - Browser session started
+2026-05-08 10:24:44,208 - INFO - Entering text : wrong@mail.com
+2026-05-08 10:24:44,514 - INFO - Entering text : wrong123
+2026-05-08 10:24:44,808 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:24:46,667 - INFO - Closing browser session
+2026-05-08 10:24:49,351 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:24:49,351 - INFO - ====== WebDriver manager ======
+2026-05-08 10:24:52,310 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:24:54,239 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:24:57,665 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:24:58,996 - INFO - Browser session started
+2026-05-08 10:24:58,997 - INFO - Opening application
+2026-05-08 10:25:35,311 - INFO - Clicking login button
+2026-05-08 10:25:42,787 - INFO - Performing login
+2026-05-08 10:25:42,788 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:25:43,235 - INFO - Entering text : yashwanth3015
+2026-05-08 10:25:43,415 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:25:43,681 - INFO - Login successful
+2026-05-08 10:25:48,350 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:25:48,606 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:26:02,305 - INFO - Closing browser session
+2026-05-08 10:26:04,578 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:26:04,578 - INFO - ====== WebDriver manager ======
+2026-05-08 10:26:07,843 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:26:10,221 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:26:12,422 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:26:13,699 - INFO - Browser session started
+2026-05-08 10:26:13,700 - INFO - Opening application
+2026-05-08 10:26:29,582 - INFO - Clicking login button
+2026-05-08 10:26:34,216 - INFO - Performing login
+2026-05-08 10:26:34,217 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:26:34,600 - INFO - Entering text : yashwanth3015
+2026-05-08 10:26:34,927 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:26:35,236 - INFO - Login successful
+2026-05-08 10:26:40,447 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:26:40,885 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:26:56,081 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:26:56,393 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:27:05,554 - INFO - Closing browser session
+2026-05-08 10:27:07,779 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:27:07,779 - INFO - ====== WebDriver manager ======
+2026-05-08 10:27:10,679 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:27:15,440 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:27:21,395 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:27:22,735 - INFO - Browser session started
+2026-05-08 10:27:22,736 - INFO - Opening application
+2026-05-08 10:27:40,410 - INFO - Clicking login button
+2026-05-08 10:27:48,504 - INFO - Performing login
+2026-05-08 10:27:48,504 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:27:48,878 - INFO - Entering text : yashwanth3015
+2026-05-08 10:27:49,105 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:27:49,326 - INFO - Login successful
+2026-05-08 10:27:53,928 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:27:54,349 - INFO - Clicking on : ('xpath', "//option[text()='Work']")
+2026-05-08 10:28:01,291 - INFO - Closing browser session
+2026-05-08 10:28:45,470 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:28:45,471 - INFO - ====== WebDriver manager ======
+2026-05-08 10:28:48,568 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:28:50,895 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:28:53,008 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:28:54,355 - INFO - Browser session started
+2026-05-08 10:28:54,356 - INFO - Opening application
+2026-05-08 10:29:16,603 - INFO - Clicking login button
+2026-05-08 10:29:29,441 - INFO - Performing login
+2026-05-08 10:29:29,441 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:29:29,770 - INFO - Entering text : yashwanth3015
+2026-05-08 10:29:30,021 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:29:30,244 - INFO - Login successful
+2026-05-08 10:29:35,016 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:29:35,331 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:29:38,600 - INFO - Closing browser session
+2026-05-08 10:29:40,891 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:29:40,892 - INFO - ====== WebDriver manager ======
+2026-05-08 10:29:43,916 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:29:45,128 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:29:46,648 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:29:47,954 - INFO - Browser session started
+2026-05-08 10:29:47,955 - INFO - Opening application
+2026-05-08 10:30:05,018 - INFO - Clicking login button
+2026-05-08 10:30:09,595 - INFO - Performing login
+2026-05-08 10:30:09,596 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:30:10,145 - INFO - Entering text : yashwanth3015
+2026-05-08 10:30:10,499 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:30:10,835 - INFO - Login successful
+2026-05-08 10:30:15,881 - INFO - Clicking on : ('id', 'category')
+2026-05-08 10:30:16,123 - INFO - Clicking on : ('xpath', "//option[text()='Home']")
+2026-05-08 10:30:29,161 - INFO - Closing browser session
+2026-05-08 10:30:31,413 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:30:31,413 - INFO - ====== WebDriver manager ======
+2026-05-08 10:30:34,362 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:30:39,572 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:30:42,601 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:30:43,388 - INFO - Browser session started
+2026-05-08 10:31:01,310 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_103101.png
+2026-05-08 10:31:01,318 - INFO - Closing browser session
+2026-05-08 10:31:05,540 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:31:05,540 - INFO - ====== WebDriver manager ======
+2026-05-08 10:31:08,236 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:31:09,290 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:31:12,039 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:31:12,721 - INFO - Browser session started
+2026-05-08 10:31:30,762 - ERROR - Screenshot captured: screenshots\test_login_valid_credentials_20260508_103130.png
+2026-05-08 10:31:30,771 - INFO - Closing browser session
+2026-05-08 10:31:35,289 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:31:35,290 - INFO - ====== WebDriver manager ======
+2026-05-08 10:31:39,988 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:31:41,887 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:31:45,490 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:31:46,730 - INFO - Browser session started
+2026-05-08 10:32:15,711 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:32:16,076 - INFO - Entering text : yashwanth3015
+2026-05-08 10:32:16,280 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:32:18,069 - INFO - Closing browser session
+2026-05-08 10:32:20,304 - INFO - Starting LOCAL Chrome browser
+2026-05-08 10:32:20,304 - INFO - ====== WebDriver manager ======
+2026-05-08 10:32:22,910 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:32:24,263 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-08 10:32:26,410 - INFO - Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-08 10:32:27,149 - INFO - Browser session started
+2026-05-08 10:32:27,150 - INFO - Opening application
+2026-05-08 10:32:43,181 - INFO - Clicking login button
+2026-05-08 10:32:46,396 - INFO - Performing login
+2026-05-08 10:32:46,397 - INFO - Entering text : yashwanthveeraboina3015@gmail.com
+2026-05-08 10:32:46,994 - INFO - Entering text : yashwanth3015
+2026-05-08 10:32:47,376 - INFO - Clicking on : ('xpath', "//button[@type='submit']")
+2026-05-08 10:32:47,777 - INFO - Login successful
+2026-05-08 10:32:49,145 - INFO - Closing browser session
