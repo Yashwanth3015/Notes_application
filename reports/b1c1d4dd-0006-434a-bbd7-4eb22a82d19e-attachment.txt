@@ -1,0 +1,46 @@
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 xdist worker is: gw1
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 There is no [win64] chromedriver "148.0.7778.97" for browser google-chrome "148.0.7778" in cache
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 WebDriver version 148.0.7778.97 selected
+[32mINFO    [0m WDM:logger.py:11 Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.97/win32/chromedriver-win32.zip
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.97/win32/chromedriver-win32.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\148.0.7778.97]
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:conftest.py:156 Opening application
+[32mINFO    [0m root:conftest.py:162 Clicking login button
+[32mINFO    [0m root:conftest.py:168 Performing login
+[32mINFO    [0m root:base_page.py:93 Entering text : yashwanthveeraboina3015@gmail.com
+[32mINFO    [0m root:base_page.py:93 Entering text : yashwanth3015
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('xpath', "//button[@type='submit']")
+[33mWARNING [0m root:base_page.py:36 Original locator failed. Trying AI self-healing...
+[32mINFO    [0m root:base_page.py:68 Healed locator success : ('xpath', "//button[@type='submit']")
+[32mINFO    [0m root:conftest.py:172 Login successful
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('id', 'category')
+[33mWARNING [0m root:base_page.py:36 Original locator failed. Trying AI self-healing...
+[32mINFO    [0m root:base_page.py:68 Healed locator success : ('xpath', "//button[@type='submit']")
+[32mINFO    [0m root:conftest.py:139 Closing browser session
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 xdist worker is: gw1
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\148.0.7778.97\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:conftest.py:156 Opening application
+[32mINFO    [0m root:conftest.py:162 Clicking login button
+[32mINFO    [0m root:conftest.py:168 Performing login
+[32mINFO    [0m root:base_page.py:93 Entering text : yashwanthveeraboina3015@gmail.com
+[32mINFO    [0m root:base_page.py:93 Entering text : yashwanth3015
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('xpath', "//button[@type='submit']")
+[33mWARNING [0m root:base_page.py:36 Original locator failed. Trying AI self-healing...
+[32mINFO    [0m root:base_page.py:68 Healed locator success : ('xpath', "//button[@type='submit']")
+[32mINFO    [0m root:conftest.py:172 Login successful
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('id', 'category')
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('xpath', "//option[text()='Work']")
+[32mINFO    [0m root:conftest.py:139 Closing browser session

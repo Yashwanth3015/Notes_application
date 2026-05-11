@@ -1,0 +1,12 @@
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\148.0.7778.97\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:base_page.py:93 Entering text : wrong@mail.com
+[32mINFO    [0m root:base_page.py:93 Entering text : wrong123
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('xpath', "//button[@type='submit']")
+[33mWARNING [0m root:base_page.py:36 Original locator failed. Trying AI self-healing...
+[32mINFO    [0m root:base_page.py:68 Healed locator success : ('xpath', "//button[@type='submit']")
+[32mINFO    [0m root:conftest.py:139 Closing browser session

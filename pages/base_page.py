@@ -111,7 +111,7 @@ class BasePage:
 
         return element.text
 
-    # Visibility Check
+    # Visibility Check of element
     def is_visible(self, locator):
 
         try:

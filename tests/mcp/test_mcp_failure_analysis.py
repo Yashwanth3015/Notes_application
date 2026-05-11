@@ -10,12 +10,12 @@ from mcp.failure_analyzer import (
 @pytest.mark.mcp
 def test_mcp_failure_analysis():
 
-    error = (
-        "TimeoutException: "
+    error = (                      
+        "TimeoutException: "          #fake erroer message to simulate a failure scenario for testing the failure analysis functionality
         "Element not found"
     )
 
-    result = (
+    result = (                     #calling the failure analyzer to analyze the simulated error and generate an AI response based on it
         LLMFailureAnalyzer
         .analyze(error)
     )

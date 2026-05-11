@@ -13,8 +13,8 @@ def test_ui_to_api_consistency(logged_in_user):
     TC-13: Validate note created via UI appears correctly in API
     """
 
-    driver = logged_in_user
-    notes = NotesPage(driver)
+    driver = logged_in_user #store the driver instance from the fixture
+    notes = NotesPage(driver)  
 
     api = APIClient()
     
@@ -31,7 +31,7 @@ def test_ui_to_api_consistency(logged_in_user):
     response = api.get_notes()
     assert response.status_code == 200
 
-    data = response.json()["data"]
+    data = response.json()["data"]   #gets notes list
 
     # Step 3: Validate
     matched_note = next((n for n in data if n["title"] == title), None)
@@ -59,7 +59,7 @@ def test_api_to_ui_delete_sync(logged_in_user):
     # Unique note
     title = f"Delete_{int(time.time())}"
     desc = "This is a delete sync test"
-
+    #create note via UI
     notes.create_note(title, desc)
 
     # Fetch from API
@@ -83,7 +83,7 @@ def test_api_to_ui_delete_sync(logged_in_user):
         )
         if not notes.is_note_present(title):
             break
-        time.sleep(1)
+        time.sleep(1) #allows backend to sync
 
     assert not notes.is_note_present(title), \
         "Deleted note still visible in UI"

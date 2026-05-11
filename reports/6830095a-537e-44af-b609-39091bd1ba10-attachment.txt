@@ -1,0 +1,17 @@
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 xdist worker is: gw1
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\gw1\drivers\chromedriver\win64\148.0.7778.97\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:conftest.py:156 Opening application
+[32mINFO    [0m root:conftest.py:162 Clicking login button
+[32mINFO    [0m root:conftest.py:168 Performing login
+[32mINFO    [0m root:base_page.py:93 Entering text : yashwanthveeraboina3015@gmail.com
+[32mINFO    [0m root:base_page.py:93 Entering text : yashwanth3015
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('xpath', "//button[@type='submit']")
+[32mINFO    [0m root:conftest.py:172 Login successful
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('id', 'category')
+[32mINFO    [0m root:base_page.py:23 Clicking on : ('xpath', "//option[text()='Home']")
+[32mINFO    [0m root:conftest.py:139 Closing browser session

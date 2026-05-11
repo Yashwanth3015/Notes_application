@@ -55,7 +55,7 @@ class NotesPage(BasePage):
     duplicate_message = (
         By.XPATH,
         "//*[contains(text(),'already exists')]"
-    )
+    ) 
 
     def create_note(self, title, description, category="Home"):
 
@@ -148,14 +148,14 @@ class NotesPage(BasePage):
         else:
 
             try:
-                self.wait.until(
+                self.wait.until(                 #wait until the popup closes
                     EC.invisibility_of_element_located(
                         self.create_btn
                     )
                 )
 
-            except TimeoutException:
-                pass
+            except TimeoutException:          #prevents test crash due to slow ui
+                pass        
 
         time.sleep(2)
 

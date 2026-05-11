@@ -15,7 +15,7 @@ class HomePage:
     def load(self, url):
         self.driver.get(url)
         self.wait.until(
-            lambda d: d.execute_script("return document.readyState") == "complete"
+            lambda d: d.execute_script("return document.readyState") == "complete"    #anonymous function to check if page is fully loaded
         )
 
     def click_login(self):

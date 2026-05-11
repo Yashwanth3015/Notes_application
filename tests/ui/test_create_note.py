@@ -28,8 +28,8 @@ def test_create_note_ui(logged_in_user):
     
 
 
-@allure.feature("UI Validation")
-@allure.story("Validate note appears instantly in UI")
+@allure.feature("UI Validation")  
+@allure.story("Validate note appears instantly in UI") #adds readable story name in reports
 def test_note_appears_instantly_ui(logged_in_user):
 
     notes = NotesPage(logged_in_user)

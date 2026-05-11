@@ -31,7 +31,7 @@ os.makedirs("screenshots", exist_ok=True)
 # LOGGING SETUP
 # =====================================================
 
-logging.basicConfig(
+logging.basicConfig(            #configures framework logging system
     filename="logs/test.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
@@ -58,10 +58,10 @@ def pytest_addoption(parser):
 # SELENIUM DRIVER FIXTURE
 # =====================================================
 
-@pytest.fixture(scope="function")
+@pytest.fixture(scope="function") #creates browser session for each test function and ensures cleanup after test execution
 def driver(request):
 
-    execution_env = request.config.getoption("--env")
+    execution_env = request.config.getoption("--env") #reads the custom command-line option to determine execution environment 
 
     chrome_options = Options()
 
@@ -86,7 +86,7 @@ def driver(request):
     chrome_options.add_argument("--remote-allow-origins=*")
 
     prefs = {
-        "profile.default_content_setting_values.notifications": 2
+        "profile.default_content_setting_values.notifications": 2   #permanently blocks notifications for the browser session
     }
 
     chrome_options.add_experimental_option(
@@ -145,7 +145,7 @@ def driver(request):
 # LOGIN FIXTURE
 # =====================================================
 
-@pytest.fixture(scope="function")
+@pytest.fixture(scope="function") #creates a logged-in user fixture for each test function
 def logged_in_user(driver):
 
     home = HomePage(driver)
@@ -179,14 +179,14 @@ def logged_in_user(driver):
 # =====================================================
 
 @pytest.hookimpl(hookwrapper=True)
-def pytest_runtest_makereport(item, call):
+def pytest_runtest_makereport(item, call):   #hook implementation that executes after each test to check if it failed and capture screenshot
 
     outcome = yield
     report = outcome.get_result()
 
-    if report.when == "call" and report.failed:
+    if report.when == "call" and report.failed: #it checks if acutal test execution phase failed (not setup or teardown)
 
-        driver = item.funcargs.get("driver", None)
+        driver = item.funcargs.get("driver", None)   #funcrags contains fixture values used in the test
 
         # -----------------------------------------
         # SCREENSHOT
@@ -219,7 +219,7 @@ def pytest_runtest_makereport(item, call):
             )
 
         # -----------------------------------------
-        # LOG FILE ATTACHMENT
+        # LOG FILE ATTACHMENT TO ALLURE REPORT
         # -----------------------------------------
 
         log_file = "logs/test.log"

@@ -1,7 +1,7 @@
 import time
 
 
-def retry_action(action, retries=3):
+def retry_action(action, retries=3):        #it performs automatic retry of a given action
 
     for attempt in range(retries):
 

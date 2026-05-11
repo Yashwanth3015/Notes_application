@@ -7,7 +7,7 @@ from utils.config import API_URL
 
 
 @pytest.mark.ui
-def test_login_invalid_credentials(driver):
+def test_login_invalid_credentials(driver):    #gets browser instances
 
     from utils.config import UI_URL
 
@@ -45,8 +45,8 @@ def test_create_duplicate_note(logged_in_user):
     """
     TC-05: Duplicate note creation handling
     """
-    driver = logged_in_user
-    notes = NotesPage(driver)
+    driver = logged_in_user #store the driver instance from the fixture
+    notes = NotesPage(driver) 
 
     title = "Duplicate_Test"
     desc = "This is the Duplicate case"

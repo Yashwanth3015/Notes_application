@@ -11,15 +11,15 @@ def test_get_notes_api():
     api = APIClient()
 
 
-    response = api.get_notes()
+    response = api.get_notes() # sends GET request
 
     assert response.status_code == 200
-    data = response.json()
+    data = response.json()   #Converts API response into Python dictionary.
     assert "data" in data
-    assert isinstance(data["data"], list)
+    assert isinstance(data["data"], list)  #checks notes returned as list
 
-    # Performance
-    assert response.elapsed.total_seconds() < 5
+    # Performance validation
+    assert response.elapsed.total_seconds() < 5 
 
 
 @pytest.mark.api
@@ -30,7 +30,7 @@ def test_delete_note_api():
     api = APIClient()
 
     response = api.get_notes()
-    notes = response.json()["data"]
+    notes = response.json()["data"] #stores every notes
 
     assert len(notes) > 0, "No notes available to delete"
 
@@ -40,5 +40,5 @@ def test_delete_note_api():
     assert delete_response.status_code == 200
 
     # Verify deletion
-    updated = api.get_notes().json()["data"]
+    updated = api.get_notes().json()["data"]   #fetch updated notes list after deletion
     assert not any(n["id"] == note_id for n in updated), "Note not deleted"
