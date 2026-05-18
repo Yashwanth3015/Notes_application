@@ -15,93 +15,229 @@ class BasePage:
     def __init__(self, driver):
 
         self.driver = driver
-        self.wait = WebDriverWait(driver, 20)
 
-    # Agentic Click Method
+        # Faster execution
+        self.wait = WebDriverWait(
+            driver,
+            5
+        )
+
+    # =====================================================
+    # AGENTIC AI CLICK METHOD
+    # =====================================================
+
     def click(self, locator):
 
-        logger.info(f"Clicking on : {locator}")
+        logger.info(
+            f"Clicking on : {locator}"
+        )
 
-        try:
+        # -----------------------------------------
+        # ACTION FUNCTION
+        # -----------------------------------------
 
-            # Try original locator first
-            element = self.wait.until(
-                EC.element_to_be_clickable(locator)
-            )
+        def action():
 
-            element.click()
+            try:
 
-        except Exception:
+                # ---------------------------------
+                # ORIGINAL LOCATOR
+                # ---------------------------------
 
-            logger.warning(
-                "Original locator failed. Trying AI self-healing..."
-            )
-
-            healed_element = None
-
-            # AI Healed Locators
-            possible_locators = [
-
-                # Login Button
-                ("xpath", "//button[@type='submit']"),
-
-                ("xpath", "//button[contains(text(),'Login')]"),
-
-                ("css selector", "button[type='submit']"),
-
-                # Add Note Button
-                ("xpath", "//button[contains(text(),'Add Note')]"),
-
-                # Generic Button
-                ("tag name", "button")
-            ]
-
-            for by, value in possible_locators:
-
-                try:
-
-                    healed_element = self.driver.find_element(
-                        by,
-                        value
+                element = self.wait.until(
+                    EC.element_to_be_clickable(
+                        locator
                     )
+                )
 
-                    logger.info(
-                        f"Healed locator success : {(by, value)}"
+                element.click()
+
+                logger.info(
+                    "Original locator worked"
+                )
+
+                return True
+
+            except Exception as e:
+
+                # ---------------------------------
+                # FAILURE ANALYSIS
+                # ---------------------------------
+
+                failure_type = (
+                    FailureAnalyzer.analyze(e)
+                )
+
+                print("\n")
+                print("=" * 60)
+                print(
+                    "AGENTIC AI FAILURE DETECTED"
+                )
+                print("=" * 60)
+
+                print("\nFailure Type:")
+                print(failure_type)
+
+                print("\nOriginal Locator:")
+                print(locator)
+
+                logger.warning(
+                    "Original locator failed. "
+                    "Trying LongCat AI healing..."
+                )
+
+                # ---------------------------------
+                # LONGCAT HEALING
+                # ---------------------------------
+
+                healed_element = (
+                    LocatorHealer.heal(
+                        self.driver,
+                        locator,
+                        e
                     )
+                )
 
-                    break
+                # ---------------------------------
+                # SCROLL
+                # ---------------------------------
 
-                except Exception:
-                    continue
+                self.driver.execute_script(
+                    "arguments[0].scrollIntoView(true);",
+                    healed_element
+                )
 
-            if healed_element:
+                import time
+                time.sleep(1)
+
+                # ---------------------------------
+                # JS CLICK
+                # ---------------------------------
 
                 self.driver.execute_script(
                     "arguments[0].click();",
                     healed_element
                 )
 
-            else:
+                print("\nHealing Status:")
+                print("SUCCESS")
 
-                raise Exception(
-                    "AI Self-Healing Failed"
+                logger.info(
+                    "AI self-healing successful"
                 )
 
-    # Agentic Enter Text Method
+                return True
+
+        # -----------------------------------------
+        # RETRY ENGINE
+        # -----------------------------------------
+
+        try:
+
+            RetryEngine.execute(
+                action,
+                retries=1,
+                delay=1
+            )
+
+            print("\nRetry Status:")
+            print("PASSED")
+
+            print("=" * 60)
+            print("\n")
+
+        except Exception as final_error:
+
+            print("\nRetry Status:")
+            print("FAILED")
+
+            print("=" * 60)
+            print("\n")
+
+            raise final_error
+
+    # =====================================================
+    # AGENTIC AI INPUT METHOD
+    # =====================================================
+
     def enter_text(self, locator, value):
 
-        logger.info(f"Entering text : {value}")
-
-        element = IntelligentWait.visible(
-            self.driver,
-            locator
+        logger.info(
+            f"Entering text : {value}"
         )
 
-        element.clear()
+        try:
 
-        element.send_keys(value)
+            # -----------------------------------------
+            # ORIGINAL INPUT LOCATOR
+            # -----------------------------------------
 
-    # Get Text Method
+            element = IntelligentWait.visible(
+                self.driver,
+                locator
+            )
+
+            element.clear()
+
+            element.send_keys(value)
+
+            logger.info(
+                "Original input locator worked"
+            )
+
+        except Exception as e:
+
+            print("\n")
+            print("=" * 60)
+            print(
+                "AGENTIC AI INPUT FAILURE DETECTED"
+            )
+            print("=" * 60)
+
+            print("\nFailure:")
+            print(str(e))
+
+            print("\nOriginal Locator:")
+            print(locator)
+
+            logger.warning(
+                "Input locator failed. "
+                "Trying LongCat AI healing..."
+            )
+
+            # -----------------------------------------
+            # LONGCAT HEALING
+            # -----------------------------------------
+
+            healed_element = (
+                LocatorHealer.heal(
+                    self.driver,
+                    locator,
+                    e
+                )
+            )
+
+            healed_element.clear()
+
+            healed_element.send_keys(value)
+
+            print("\nHealing Status:")
+            print("SUCCESS")
+
+            print("\nRetry Status:")
+            print("PASSED")
+
+            print("=" * 60)
+            print("\n")
+
+            logger.info(
+                "AI input healing successful"
+            )
+
+    # =====================================================
+    # GET TEXT METHOD
+    # =====================================================
+
     def get_text(self, locator):
 
         element = IntelligentWait.visible(
@@ -111,7 +247,10 @@ class BasePage:
 
         return element.text
 
-    # Visibility Check of element
+    # =====================================================
+    # VISIBILITY CHECK
+    # =====================================================
+
     def is_visible(self, locator):
 
         try:

@@ -1,0 +1,82 @@
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure Type:
+Synchronization Failure
+
+Original Locator:
+('css selector', "[data-testid='wrong-login'] a")
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure:
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x557123+10a23]
+	chromedriver!GetHandleVerifier [0x557254+10b54]
+	chromedriver!(No symbol) [0x371e90]
+	chromedriver!(No symbol) [0x3bb28a]
+	chromedriver!(No symbol) [0x3bb52b]
+	chromedriver!(No symbol) [0x3fd062]
+	chromedriver!(No symbol) [0x3dd7d4]
+	chromedriver!(No symbol) [0x3fa936]
+	chromedriver!(No symbol) [0x3dd526]
+	chromedriver!(No symbol) [0x3b08f9]
+	chromedriver!(No symbol) [0x3b16b4]
+	chromedriver!GetHandleVerifier [0x7f1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7ed0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x80e4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x571128+2aa28]
+	chromedriver!GetHandleVerifier [0x578bbd+324bd]
+	chromedriver!GetHandleVerifier [0x55fb28+19428]
+	chromedriver!GetHandleVerifier [0x55fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5491cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x76d35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7756d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7756d7c1+231]
+
+
+Original Locator:
+('css selector', "[data-testid='wrong-login'] a")
+LongCat Status: 404
+LongCat Response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+
+LongCat Suggested:
+//button[@type='submit']
+
+AI Healed Locator:
+('xpath', "//a[contains(text(),'Login')]")
+
+Healing Status:
+SUCCESS
+============================================================
+
+
+
+Healing Status:
+SUCCESS
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+

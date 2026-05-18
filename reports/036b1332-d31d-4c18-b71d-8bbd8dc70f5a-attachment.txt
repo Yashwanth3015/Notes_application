@@ -1,0 +1,277 @@
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure Type:
+Click Interception
+
+Original Locator:
+('css selector', "[data-testid='open-login-view'] a")
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure:
+Message: element click intercepted: Element is not clickable at point (310, 908)
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x527123+10a23]
+	chromedriver!GetHandleVerifier [0x527254+10b54]
+	chromedriver!(No symbol) [0x341e90]
+	chromedriver!(No symbol) [0x3910e8]
+	chromedriver!(No symbol) [0x38f779]
+	chromedriver!(No symbol) [0x38d565]
+	chromedriver!(No symbol) [0x38c774]
+	chromedriver!(No symbol) [0x382378]
+	chromedriver!(No symbol) [0x3ad78c]
+	chromedriver!(No symbol) [0x381db4]
+	chromedriver!(No symbol) [0x3ad954]
+	chromedriver!(No symbol) [0x3ca936]
+	chromedriver!(No symbol) [0x3ad526]
+	chromedriver!(No symbol) [0x3808f9]
+	chromedriver!(No symbol) [0x3816b4]
+	chromedriver!GetHandleVerifier [0x7c1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7bd0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x7de4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x541128+2aa28]
+	chromedriver!GetHandleVerifier [0x548bbd+324bd]
+	chromedriver!GetHandleVerifier [0x52fb28+19428]
+	chromedriver!GetHandleVerifier [0x52fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5191cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x76d35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7756d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7756d7c1+231]
+
+
+Original Locator:
+('css selector', "[data-testid='open-login-view'] a")
+
+
+============================================================
+LONGCAT API RESPONSE
+============================================================
+Status Code:
+200
+
+Response:
+{"id":"ba1eaccf26ff4343b3939c3874198661","object":"chat.completion","created":1778933080,"model":"LongCat-Flash-Chat","usage":{"effectiveCachedTokens":0,"completion_tokens":12,"prompt_tokens":708,"total_tokens":720,"cache_write_tokens":0,"cache_read_tokens":0,"input_tokens":0,"output_tokens":0,"output_tokens_details":null,"cached_tokens":0},"choices":[{"index":0,"message":{"role":"assistant","content":"//a[@data-testid='open-login-view']"},"finish_reason":"stop","matched_stop":2,"logprobs":null}]}
+============================================================
+
+
+
+LongCat Suggested:
+//a[@data-testid='open-login-view']
+
+AI locator failed.
+Trying enterprise fallback...
+
+Fallback Locator Used:
+('css selector', "[data-testid='open-login-view'] a")
+
+Healing Status:
+SUCCESS
+============================================================
+
+
+
+Healing Status:
+SUCCESS
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure Type:
+Click Interception
+
+Original Locator:
+('xpath', "//button[@type='submit']")
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure:
+Message: element click intercepted: Element <button data-testid="login-submit" type="submit" class="btn btn-lg btn-primary d-block w-100">...</button> is not clickable at point (724, 813). Other element would receive the click: <iframe id="aswift_5" name="aswift_5" style="min-height: auto; max-height: none; min-width: auto; max-width: none; width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20260512/r20190131/zrt_lookup_fy2021.html#RS-1-&amp;adk=1812271801&amp;client=ca-pub-1056034821646296&amp;fa=1&amp;ifi=6&amp;uci=a!6&amp;btvi=2" data-google-container-id="a!6" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CK381ZPivZQDFU9XLQQdsVwI6w" data-load-complete="true"></iframe>
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x527123+10a23]
+	chromedriver!GetHandleVerifier [0x527254+10b54]
+	chromedriver!(No symbol) [0x341e90]
+	chromedriver!(No symbol) [0x3910e8]
+	chromedriver!(No symbol) [0x38f779]
+	chromedriver!(No symbol) [0x38d565]
+	chromedriver!(No symbol) [0x38c774]
+	chromedriver!(No symbol) [0x382378]
+	chromedriver!(No symbol) [0x3ad78c]
+	chromedriver!(No symbol) [0x381db4]
+	chromedriver!(No symbol) [0x3ad954]
+	chromedriver!(No symbol) [0x3ca936]
+	chromedriver!(No symbol) [0x3ad526]
+	chromedriver!(No symbol) [0x3808f9]
+	chromedriver!(No symbol) [0x3816b4]
+	chromedriver!GetHandleVerifier [0x7c1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7bd0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x7de4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x541128+2aa28]
+	chromedriver!GetHandleVerifier [0x548bbd+324bd]
+	chromedriver!GetHandleVerifier [0x52fb28+19428]
+	chromedriver!GetHandleVerifier [0x52fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5191cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x76d35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7756d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7756d7c1+231]
+
+
+Original Locator:
+('xpath', "//button[@type='submit']")
+
+
+============================================================
+LONGCAT API RESPONSE
+============================================================
+Status Code:
+200
+
+Response:
+{"id":"b21ed069c24145638e10401328d916b3","object":"chat.completion","created":1778933129,"model":"LongCat-Flash-Chat","usage":{"effectiveCachedTokens":0,"completion_tokens":12,"prompt_tokens":1068,"total_tokens":1080,"cache_write_tokens":0,"cache_read_tokens":0,"input_tokens":0,"output_tokens":0,"output_tokens_details":null,"cached_tokens":0},"choices":[{"index":0,"message":{"role":"assistant","content":"//button[@data-testid='login-submit']"},"finish_reason":"stop","matched_stop":2,"logprobs":null}]}
+============================================================
+
+
+
+LongCat Suggested:
+//button[@data-testid='login-submit']
+
+AI Healed Locator:
+('xpath', "//button[@data-testid='login-submit']")
+
+Healing Status:
+SUCCESS
+============================================================
+
+
+
+Healing Status:
+SUCCESS
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+
+============================================================
+AGENTIC AI INPUT FAILURE DETECTED
+============================================================
+
+Failure:
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x527123+10a23]
+	chromedriver!GetHandleVerifier [0x527254+10b54]
+	chromedriver!(No symbol) [0x341e90]
+	chromedriver!(No symbol) [0x38b28a]
+	chromedriver!(No symbol) [0x38b52b]
+	chromedriver!(No symbol) [0x3cd062]
+	chromedriver!(No symbol) [0x3ad7d4]
+	chromedriver!(No symbol) [0x3ca936]
+	chromedriver!(No symbol) [0x3ad526]
+	chromedriver!(No symbol) [0x3808f9]
+	chromedriver!(No symbol) [0x3816b4]
+	chromedriver!GetHandleVerifier [0x7c1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7bd0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x7de4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x541128+2aa28]
+	chromedriver!GetHandleVerifier [0x548bbd+324bd]
+	chromedriver!GetHandleVerifier [0x52fb28+19428]
+	chromedriver!GetHandleVerifier [0x52fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5191cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x76d35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7756d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7756d7c1+231]
+
+
+Original Locator:
+('id', 'titldsde')
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure:
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x527123+10a23]
+	chromedriver!GetHandleVerifier [0x527254+10b54]
+	chromedriver!(No symbol) [0x341e90]
+	chromedriver!(No symbol) [0x38b28a]
+	chromedriver!(No symbol) [0x38b52b]
+	chromedriver!(No symbol) [0x3cd062]
+	chromedriver!(No symbol) [0x3ad7d4]
+	chromedriver!(No symbol) [0x3ca936]
+	chromedriver!(No symbol) [0x3ad526]
+	chromedriver!(No symbol) [0x3808f9]
+	chromedriver!(No symbol) [0x3816b4]
+	chromedriver!GetHandleVerifier [0x7c1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7bd0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x7de4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x541128+2aa28]
+	chromedriver!GetHandleVerifier [0x548bbd+324bd]
+	chromedriver!GetHandleVerifier [0x52fb28+19428]
+	chromedriver!GetHandleVerifier [0x52fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5191cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x76d35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7756d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7756d7c1+231]
+
+
+Original Locator:
+('id', 'titldsde')
+
+
+============================================================
+LONGCAT API RESPONSE
+============================================================
+Status Code:
+200
+
+Response:
+{"id":"4d1925ef94cd444a8b18184ea386dc80","object":"chat.completion","created":1778933147,"model":"LongCat-Flash-Chat","usage":{"effectiveCachedTokens":0,"completion_tokens":11,"prompt_tokens":559,"total_tokens":570,"cache_write_tokens":0,"cache_read_tokens":0,"input_tokens":0,"output_tokens":0,"output_tokens_details":null,"cached_tokens":0},"choices":[{"index":0,"message":{"role":"assistant","content":"//input[@id='titldsde']"},"finish_reason":"stop","matched_stop":2,"logprobs":null}]}
+============================================================
+
+
+
+LongCat Suggested:
+//input[@id='titldsde']
+
+AI locator failed.
+Trying enterprise fallback...
+
+Fallback Locator Used:
+('xpath', "//button[@type='submit']")
+
+Healing Status:
+SUCCESS
+============================================================
+
+

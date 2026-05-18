@@ -1,5 +1,3 @@
-# tests/mcp/test_mcp_test_data.py
-
 import pytest
 
 from mcp.test_data_generator import (

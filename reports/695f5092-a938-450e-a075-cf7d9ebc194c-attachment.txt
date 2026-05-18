@@ -1,0 +1,163 @@
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure Type:
+Synchronization Failure
+
+Original Locator:
+('css selector', "[data-testid='wrong-login'] a")
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure:
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x557123+10a23]
+	chromedriver!GetHandleVerifier [0x557254+10b54]
+	chromedriver!(No symbol) [0x371e90]
+	chromedriver!(No symbol) [0x3bb28a]
+	chromedriver!(No symbol) [0x3bb52b]
+	chromedriver!(No symbol) [0x3fd062]
+	chromedriver!(No symbol) [0x3dd7d4]
+	chromedriver!(No symbol) [0x3fa936]
+	chromedriver!(No symbol) [0x3dd526]
+	chromedriver!(No symbol) [0x3b08f9]
+	chromedriver!(No symbol) [0x3b16b4]
+	chromedriver!GetHandleVerifier [0x7f1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7ed0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x80e4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x571128+2aa28]
+	chromedriver!GetHandleVerifier [0x578bbd+324bd]
+	chromedriver!GetHandleVerifier [0x55fb28+19428]
+	chromedriver!GetHandleVerifier [0x55fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5491cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x76d35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7756d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7756d7c1+231]
+
+
+Original Locator:
+('css selector', "[data-testid='wrong-login'] a")
+LongCat Status: 404
+LongCat Response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+
+LongCat Suggested:
+//button[@type='submit']
+
+AI Healed Locator:
+('xpath', "//a[contains(text(),'Login')]")
+
+Healing Status:
+SUCCESS
+============================================================
+
+
+
+Healing Status:
+SUCCESS
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure Type:
+Click Interception
+
+Original Locator:
+('xpath', "//button[@type='submit']")
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure:
+Message: element click intercepted: Element <button data-testid="login-submit" type="submit" class="btn btn-lg btn-primary d-block w-100">...</button> is not clickable at point (724, 813). Other element would receive the click: <iframe id="aswift_5" name="aswift_5" style="min-height: auto; max-height: none; min-width: auto; max-width: none; width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20260512/r20190131/zrt_lookup_fy2021.html#RS-1-&amp;adk=1812271801&amp;client=ca-pub-1056034821646296&amp;fa=1&amp;ifi=6&amp;uci=a!6&amp;btvi=1" data-google-container-id="a!6" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CKnI3orKvZQDFTK3fwQd3xoG4g" data-load-complete="true"></iframe>
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x557123+10a23]
+	chromedriver!GetHandleVerifier [0x557254+10b54]
+	chromedriver!(No symbol) [0x371e90]
+	chromedriver!(No symbol) [0x3c10e8]
+	chromedriver!(No symbol) [0x3bf779]
+	chromedriver!(No symbol) [0x3bd565]
+	chromedriver!(No symbol) [0x3bc774]
+	chromedriver!(No symbol) [0x3b2378]
+	chromedriver!(No symbol) [0x3dd78c]
+	chromedriver!(No symbol) [0x3b1db4]
+	chromedriver!(No symbol) [0x3dd954]
+	chromedriver!(No symbol) [0x3fa936]
+	chromedriver!(No symbol) [0x3dd526]
+	chromedriver!(No symbol) [0x3b08f9]
+	chromedriver!(No symbol) [0x3b16b4]
+	chromedriver!GetHandleVerifier [0x7f1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7ed0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x80e4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x571128+2aa28]
+	chromedriver!GetHandleVerifier [0x578bbd+324bd]
+	chromedriver!GetHandleVerifier [0x55fb28+19428]
+	chromedriver!GetHandleVerifier [0x55fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5491cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x76d35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7756d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7756d7c1+231]
+
+
+Original Locator:
+('xpath', "//button[@type='submit']")
+LongCat Status: 456
+LongCat Response: { "status": 456, "message": "Forbidden,Contact:edp.waf@meituan.com", "request_id": "77b809b801b3eb13dbda6e742de801cb29607" }
+
+
+LongCat Suggested:
+//button[@type='submit']
+
+AI Healed Locator:
+('xpath', "//button[@type='submit']")
+
+Healing Status:
+SUCCESS
+============================================================
+
+
+
+Healing Status:
+SUCCESS
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+

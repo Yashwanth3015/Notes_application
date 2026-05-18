@@ -18,7 +18,7 @@ class LoginPage(BasePage):
 
     login_btn = (
         By.XPATH,
-        "//button[@type='submit']"
+        "//button[@type='submitted']"
     )
 
     add_note_btn = (

@@ -7,6 +7,10 @@ from pages.base_page import BasePage
 
 class NotesPage(BasePage):
 
+    # =====================================================
+    # LOCATORS
+    # =====================================================
+
     add_note_btn = (
         By.XPATH,
         "//button[contains(text(),'Add Note')]"
@@ -55,88 +59,82 @@ class NotesPage(BasePage):
     duplicate_message = (
         By.XPATH,
         "//*[contains(text(),'already exists')]"
-    ) 
+    )
 
-    def create_note(self, title, description, category="Home"):
+    # =====================================================
+    # CREATE NOTE
+    # =====================================================
+
+    def create_note(
+        self,
+        title,
+        description,
+        category="Home"
+    ):
 
         import time
 
-        # Stabilization for parallel execution
-        time.sleep(3)
-
-        # Wait for Add Note button
-        add_btn = self.wait.until(
-            EC.element_to_be_clickable(
-                self.add_note_btn
-            )
-        )
-
-        # Scroll to button
-        self.driver.execute_script(
-            "arguments[0].scrollIntoView(true);",
-            add_btn
-        )
+        # -----------------------------------------
+        # STABILIZATION
+        # -----------------------------------------
 
         time.sleep(1)
 
-        # Click Add Note
-        self.driver.execute_script(
-            "arguments[0].click();",
-            add_btn
+        # -----------------------------------------
+        # CLICK ADD NOTE
+        # -----------------------------------------
+
+        self.click(
+            self.add_note_btn
         )
 
-        # Wait for popup/modal
-        self.wait.until(
-            EC.visibility_of_element_located(
-                self.note_title_input
-            )
+        # -----------------------------------------
+        # ENTER TITLE
+        # -----------------------------------------
+
+        self.enter_text(
+            self.note_title_input,
+            title
         )
 
-        # Enter title
-        title_field = self.driver.find_element(
-            *self.note_title_input
+        # -----------------------------------------
+        # ENTER DESCRIPTION
+        # -----------------------------------------
+
+        self.enter_text(
+            self.note_description_input,
+            description
         )
 
-        title_field.clear()
-        title_field.send_keys(title)
+        # -----------------------------------------
+        # SELECT CATEGORY
+        # -----------------------------------------
 
-        # Enter description
-        desc_field = self.driver.find_element(
-            *self.note_description_input
-        )
-
-        desc_field.clear()
-        desc_field.send_keys(description)
-
-        # Select category
         category_option = (
             By.XPATH,
             f"//option[text()='{category}']"
         )
 
-        self.click(self.category_dropdown)
-
-        self.wait.until(
-            EC.presence_of_element_located(
-                category_option
-            )
+        self.click(
+            self.category_dropdown
         )
 
-        self.click(category_option)
-
-        time.sleep(1)
-
-        # Click Create
-        create_button = self.driver.find_element(
-            *self.create_btn
+        self.click(
+            category_option
         )
 
-        self.driver.execute_script(
-            "arguments[0].click();",
-            create_button
+        # -----------------------------------------
+        # CREATE NOTE
+        # -----------------------------------------
+
+        self.click(
+            self.create_btn
         )
 
-        # Validation for empty title
+        # -----------------------------------------
+        # EMPTY TITLE VALIDATION
+        # -----------------------------------------
+
         if title.strip() == "":
 
             self.wait.until(
@@ -148,16 +146,21 @@ class NotesPage(BasePage):
         else:
 
             try:
-                self.wait.until(                 #wait until the popup closes
+
+                self.wait.until(
                     EC.invisibility_of_element_located(
                         self.create_btn
                     )
                 )
 
-            except TimeoutException:          #prevents test crash due to slow ui
-                pass        
+            except TimeoutException:
+                pass
 
-        time.sleep(2)
+        time.sleep(1)
+
+    # =====================================================
+    # NOTE PRESENT CHECK
+    # =====================================================
 
     def is_note_present(self, title):
 
@@ -166,17 +169,23 @@ class NotesPage(BasePage):
             f"//*[contains(text(),'{title}')]"
         )
 
-        return self.is_visible(locator)
+        return self.is_visible(
+            locator
+        )
+
+    # =====================================================
+    # DELETE NOTE
+    # =====================================================
 
     def delete_first_note(self):
 
-        self.wait.until(
-            EC.element_to_be_clickable(
-                self.delete_btn
-            )
+        self.click(
+            self.delete_btn
         )
 
-        self.click(self.delete_btn)
+    # =====================================================
+    # EMPTY MESSAGE
+    # =====================================================
 
     def is_empty_message_displayed(self):
 
@@ -184,11 +193,19 @@ class NotesPage(BasePage):
             self.empty_message
         )
 
+    # =====================================================
+    # VALIDATION MESSAGE
+    # =====================================================
+
     def is_validation_message_displayed(self):
 
         return self.is_visible(
             self.validation_message
         )
+
+    # =====================================================
+    # DUPLICATE ERROR
+    # =====================================================
 
     def is_duplicate_error_displayed(self):
 

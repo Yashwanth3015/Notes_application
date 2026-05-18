@@ -1,0 +1,34 @@
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:base_page.py:31 Clicking on : ('css selector', "[data-testid='open-login-view'] a")
+[32mINFO    [0m root:base_page.py:55 Original locator worked
+[32mINFO    [0m root:base_page.py:165 Entering text : yashwanthveeraboina3015@gmail.com
+[32mINFO    [0m root:conftest.py:139 Closing browser session
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:base_page.py:31 Clicking on : ('css selector', "[data-testid='open-login-view'] a")
+[33mWARNING [0m root:base_page.py:84 Original locator failed. Trying LongCat AI healing...
+[32mINFO    [0m root:base_page.py:125 AI self-healing successful
+[32mINFO    [0m root:base_page.py:165 Entering text : yashwanthveeraboina3015@gmail.com
+[32mINFO    [0m root:conftest.py:139 Closing browser session
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:base_page.py:31 Clicking on : ('css selector', "[data-testid='open-login-view'] a")
+[33mWARNING [0m root:base_page.py:84 Original locator failed. Trying LongCat AI healing...
+[33mWARNING [0m root:retry_engine.py:22 Retry attempt 1 failed
+[33mWARNING [0m root:base_page.py:84 Original locator failed. Trying LongCat AI healing...
+[32mINFO    [0m root:base_page.py:125 AI self-healing successful
+[32mINFO    [0m root:base_page.py:165 Entering text : yashwanthveeraboina3015@gmail.com
+[32mINFO    [0m root:conftest.py:139 Closing browser session

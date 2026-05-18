@@ -1,14 +1,67 @@
+from selenium.common.exceptions import (
+    TimeoutException,
+    NoSuchElementException,
+    ElementClickInterceptedException
+)
+
+from agentic.execution_context import (
+    ExecutionContext
+)
+
+
 class FailureAnalyzer:
 
     @staticmethod
     def analyze(exception):
 
-        message = str(exception)
+        # -----------------------------------------
+        # TIMEOUT
+        # -----------------------------------------
 
-        if "TimeoutException" in message:
-            return "Synchronization Failure"
+        if isinstance(exception, TimeoutException):
 
-        if "NoSuchElementException" in message:
-            return "Locator Failure"
+            failure = (
+                "Synchronization Failure"
+            )
 
-        return "Unknown Failure"
+        # -----------------------------------------
+        # LOCATOR FAILURE
+        # -----------------------------------------
+
+        elif isinstance(           #instance checks the object type
+            exception,
+            NoSuchElementException
+        ):
+
+            failure = (
+                "Locator Failure"
+            )
+
+        # -----------------------------------------
+        # CLICK INTERCEPTION
+        # -----------------------------------------
+
+        elif isinstance(
+            exception,
+            ElementClickInterceptedException
+        ):
+
+            failure = (
+                "Click Interception"
+            )
+
+        else:
+
+            failure = (
+                "Unknown Failure"
+            )
+
+        ExecutionContext.failure_type = (
+            failure
+        )
+
+        ExecutionContext.last_failure = (
+            str(exception)
+        )
+
+        return failure

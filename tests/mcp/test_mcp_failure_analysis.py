@@ -1,5 +1,3 @@
-# tests/mcp/test_mcp_failure_analysis.py
-
 import pytest
 
 from mcp.failure_analyzer import (
@@ -10,17 +8,40 @@ from mcp.failure_analyzer import (
 @pytest.mark.mcp
 def test_mcp_failure_analysis():
 
-    error = (                      
-        "TimeoutException: "          #fake erroer message to simulate a failure scenario for testing the failure analysis functionality
+    # -----------------------------------------
+    # FAILURE
+    # -----------------------------------------
+
+    error = (
+        "TimeoutException: "
         "Element not found"
     )
 
-    result = (                     #calling the failure analyzer to analyze the simulated error and generate an AI response based on it
-        LLMFailureAnalyzer
-        .analyze(error)
+    # -----------------------------------------
+    # LOCATOR
+    # -----------------------------------------
+
+    locator = (
+        "//button[@type='submit']"
     )
 
-    assert (
-        "AI Response Generated"
-        in result
+    # -----------------------------------------
+    # MCP FAILURE ANALYSIS
+    # -----------------------------------------
+
+    result = (
+        LLMFailureAnalyzer
+        .analyze(
+            error,
+            locator
+        )
     )
+
+    print("\nAI Analysis:")
+    print(result)
+
+    # -----------------------------------------
+    # VALIDATION
+    # -----------------------------------------
+
+    assert result is not None

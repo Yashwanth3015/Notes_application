@@ -1,19 +1,35 @@
-# mcp/failure_analyzer.py
-
-from mcp.llm_client import LLMClient #import stimuted LLM client for generating AI responses based on failure analysis
+from mcp.llm_client import LLMClient
 
 
 class LLMFailureAnalyzer:
 
     @staticmethod
-    def analyze(exception):
+    def analyze(exception, locator):
 
         prompt = f"""
-        Analyze Selenium/API failure:
 
-        {str(exception)}
+You are Selenium AI locator healer.
 
-        Suggest possible fix.
-        """
+Original Locator:
+{locator}
 
-        return LLMClient.generate(prompt)
+Failure:
+{str(exception)}
+
+STRICT RULES:
+1. Return ONLY ONE VALID XPath locator.
+2. Do NOT explain.
+3. Do NOT return paragraphs.
+4. Do NOT return markdown.
+5. Output ONLY raw XPath.
+
+Example:
+ //button[contains(text(),'Login')]
+
+"""
+
+        return (
+            LLMClient
+            .generate(prompt)
+            .strip()
+        )

@@ -1,11 +1,14 @@
 import pytest
 import allure
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
+from pages.home_page import HomePage
 from pages.login_page import LoginPage
-from utils.config import UI_URL, EMAIL, PASSWORD
+
+from utils.config import (
+    UI_URL,
+    EMAIL,
+    PASSWORD
+)
 
 
 @allure.feature("Login")
@@ -13,30 +16,26 @@ from utils.config import UI_URL, EMAIL, PASSWORD
 @pytest.mark.ui
 def test_login_valid_credentials(driver):
 
-    driver.get(UI_URL)
+    # Home Page Object
+    home = HomePage(driver)
 
-    wait = WebDriverWait(driver, 20)
-
-    # Click homepage Login button
-    home_login_btn = wait.until(
-        EC.element_to_be_clickable(
-            (
-                By.XPATH,
-                "//a[contains(text(),'Login')]"
-            )
-        )
-    )
-
-    home_login_btn.click()
-
-    # Use existing working login method
+    # Login Page Object
     login = LoginPage(driver)
 
+    # Open Application
+    home.load(UI_URL)
+
+    # IMPORTANT 😄
+    # Uses BasePage.click()
+    # LongCat healing enabled
+
+    home.click_login()
+
+    # Perform Login
     login.login(
         EMAIL,
         PASSWORD
     )
 
-    # Validate login success
-    assert login.is_login_successful(), \
-        "Login failed with valid credentials"
+    # Validate Login
+    assert login.is_login_successful()

@@ -1,0 +1,130 @@
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure Type:
+Synchronization Failure
+
+Original Locator:
+('xpath', "//button[@type='submitted']")
+
+
+============================================================
+AGENTIC AI FAILURE DETECTED
+============================================================
+
+Failure:
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x547123+10a23]
+	chromedriver!GetHandleVerifier [0x547254+10b54]
+	chromedriver!(No symbol) [0x361e90]
+	chromedriver!(No symbol) [0x3ab28a]
+	chromedriver!(No symbol) [0x3ab52b]
+	chromedriver!(No symbol) [0x3ed062]
+	chromedriver!(No symbol) [0x3cd7d4]
+	chromedriver!(No symbol) [0x3ea936]
+	chromedriver!(No symbol) [0x3cd526]
+	chromedriver!(No symbol) [0x3a08f9]
+	chromedriver!(No symbol) [0x3a16b4]
+	chromedriver!GetHandleVerifier [0x7e1ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x7dd0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x7fe4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x561128+2aa28]
+	chromedriver!GetHandleVerifier [0x568bbd+324bd]
+	chromedriver!GetHandleVerifier [0x54fb28+19428]
+	chromedriver!GetHandleVerifier [0x54fcd5+195d5]
+	chromedriver!GetHandleVerifier [0x5391cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x75d75d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7726d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7726d7c1+231]
+
+
+Original Locator:
+('xpath', "//button[@type='submitted']")
+
+
+============================================================
+LONGCAT AI RESPONSE
+============================================================
+//button[@type='submit']
+============================================================
+
+
+
+LongCat Suggested:
+//button[@type='submit']
+
+AI Healed Locator:
+('xpath', "//button[@type='submit']")
+
+Healing Status:
+SUCCESS
+============================================================
+
+
+
+Healing Status:
+SUCCESS
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+
+
+Retry Status:
+PASSED
+============================================================
+
+

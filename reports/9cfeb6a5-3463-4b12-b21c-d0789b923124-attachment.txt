@@ -1,0 +1,7 @@
+[32mINFO    [0m root:conftest.py:103 Starting LOCAL Chrome browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\yashw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:135 Browser session started
+[32mINFO    [0m root:conftest.py:139 Closing browser session

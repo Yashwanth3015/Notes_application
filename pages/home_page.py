@@ -1,23 +1,33 @@
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+
+from pages.base_page import BasePage
 
 
-class HomePage:
+class HomePage(BasePage):
 
-    def __init__(self, driver):
-        self.driver = driver
-        self.wait = WebDriverWait(driver, 15)
+    # Login Button
+    login_btn = (
+        By.CSS_SELECTOR,
+        "[data-testid='open-login-view'] a"
+    )
 
-    # Login button from your DOM
-    login_btn = (By.CSS_SELECTOR, "[data-testid='open-login-view'] a")
-
+    # Load Application
     def load(self, url):
+
         self.driver.get(url)
+
         self.wait.until(
-            lambda d: d.execute_script("return document.readyState") == "complete"    #anonymous function to check if page is fully loaded
+
+            lambda d:
+            d.execute_script(
+                "return document.readyState"
+            ) == "complete"
         )
 
+    # Click Login
     def click_login(self):
-        element = self.wait.until(EC.element_to_be_clickable(self.login_btn))
-        self.driver.execute_script("arguments[0].click();", element)
+
+        # IMPORTANT
+        # Uses BasePage.click()
+        # → Agentic AI enabled
+        self.click(self.login_btn)

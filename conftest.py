@@ -37,7 +37,7 @@ logging.basicConfig(            #configures framework logging system
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-logger = logging.getLogger()
+logger = logging.getLogger()    #creates reusable logger objects
 
 
 # =====================================================
@@ -63,7 +63,7 @@ def driver(request):
 
     execution_env = request.config.getoption("--env") #reads the custom command-line option to determine execution environment 
 
-    chrome_options = Options()
+    chrome_options = Options()  #creates browser configuration object 
 
     # -----------------------------------------
     # COMMON OPTIONS
@@ -224,7 +224,7 @@ def pytest_runtest_makereport(item, call):   #hook implementation that executes 
 
         log_file = "logs/test.log"
 
-        if os.path.exists(log_file):
+        if os.path.exists(log_file):   #checks if log file exists before attaching to report
 
             allure.attach.file(
                 log_file,
